@@ -5,3 +5,55 @@
 2023-08-08 20:44:12,663 [main] INFO Frame1 - Ok Button is working
 2023-08-08 20:44:12,868 [main] INFO Frame1 - Browser Closed
 2023-08-08 20:44:12,870 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 22:54:10,661 [main] INFO Frame1 - Logger Started
+2023-08-08 22:54:14,652 [main] INFO Frame1 - Chrome launches
+2023-08-08 22:54:17,007 [main] INFO Frame1 - url Loaded
+2023-08-08 22:54:17,240 [main] INFO Frame1 - maximized Browser window
+2023-08-08 22:54:22,579 [main] INFO Frame1 - Ok Button is working
+2023-08-08 22:54:22,966 [main] INFO Frame1 - Browser Closed
+2023-08-08 22:54:22,966 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 22:56:39,134 [main] INFO Frame1 - Logger Started
+2023-08-08 22:56:43,162 [main] INFO Frame1 - Chrome launches
+2023-08-08 22:56:44,826 [main] INFO Frame1 - url Loaded
+2023-08-08 22:56:45,062 [main] INFO Frame1 - maximized Browser window
+2023-08-08 22:56:50,698 [main] INFO Frame1 - Ok Button is working
+2023-08-08 22:56:51,105 [main] INFO Frame1 - Browser Closed
+2023-08-08 22:56:51,108 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 23:03:30,540 [main] INFO Frame1 - Logger Started
+2023-08-08 23:03:35,720 [main] INFO Frame1 - Chrome launches
+2023-08-08 23:03:37,304 [main] INFO Frame1 - url Loaded
+2023-08-08 23:03:37,493 [main] INFO Frame1 - maximized Browser window
+2023-08-08 23:03:42,242 [main] INFO Frame1 - Ok Button is working
+2023-08-08 23:03:42,654 [main] INFO Frame1 - Browser Closed
+2023-08-08 23:03:42,654 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 23:08:42,689 [main] INFO Frame1 - Logger Started
+2023-08-08 23:08:46,636 [main] INFO Frame1 - Chrome launches
+2023-08-08 23:08:48,205 [main] INFO Frame1 - url Loaded
+2023-08-08 23:08:48,405 [main] INFO Frame1 - maximized Browser window
+2023-08-08 23:08:52,933 [main] INFO Frame1 - Ok Button is working
+2023-08-08 23:08:53,310 [main] INFO Frame1 - Browser Closed
+2023-08-08 23:08:53,310 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 23:20:24,076 [main] INFO Frame1 - Logger Started
+2023-08-08 23:20:27,778 [main] INFO Frame1 - Chrome launches
+2023-08-08 23:20:30,058 [main] INFO Frame1 - url Loaded
+2023-08-08 23:20:30,292 [main] INFO Frame1 - maximized Browser window
+2023-08-08 23:20:30,342 [main] INFO Frame1 - Test Case Execution started
+2023-08-08 23:20:34,513 [main] INFO Frame1 - Ok Button is working
+2023-08-08 23:20:34,960 [main] INFO Frame1 - Browser Closed
+2023-08-08 23:20:34,960 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 23:21:55,311 [main] INFO Frame1 - Logger Started
+2023-08-08 23:21:59,069 [main] INFO Frame1 - Chrome launches
+2023-08-08 23:22:00,742 [main] INFO Frame1 - url Loaded
+2023-08-08 23:22:00,943 [main] INFO Frame1 - maximized Browser window
+2023-08-08 23:22:01,009 [main] INFO Frame1 - Test Case Execution started
+2023-08-08 23:22:06,139 [main] INFO Frame1 - Ok Button is working
+2023-08-08 23:22:06,603 [main] INFO Frame1 - Browser Closed
+2023-08-08 23:22:06,603 [main] INFO Frame1 - Framework exection Stopped
+2023-08-08 23:23:07,569 [main] INFO Frame1 - Logger Started
+2023-08-08 23:23:10,889 [main] INFO Frame1 - Chrome launches
+2023-08-08 23:23:14,745 [main] INFO Frame1 - url Loaded
+2023-08-08 23:23:14,949 [main] INFO Frame1 - maximized Browser window
+2023-08-08 23:23:14,983 [main] INFO Frame1 - Test Case Execution started
+2023-08-08 23:23:19,536 [main] INFO Frame1 - Ok Button is working
+2023-08-08 23:23:19,983 [main] INFO Frame1 - Browser Closed
+2023-08-08 23:23:19,986 [main] INFO Frame1 - Framework exection Stopped
