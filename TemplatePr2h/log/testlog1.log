@@ -1,0 +1,7 @@
+2023-08-08 20:44:03,314 [main] INFO Frame1 - Logger Started
+2023-08-08 20:44:06,831 [main] INFO Frame1 - Chrome launches
+2023-08-08 20:44:08,346 [main] INFO Frame1 - url Loaded
+2023-08-08 20:44:08,513 [main] INFO Frame1 - maximized Browser window
+2023-08-08 20:44:12,663 [main] INFO Frame1 - Ok Button is working
+2023-08-08 20:44:12,868 [main] INFO Frame1 - Browser Closed
+2023-08-08 20:44:12,870 [main] INFO Frame1 - Framework exection Stopped
