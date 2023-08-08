@@ -1,0 +1,40 @@
+package utility;
+
+
+import org.testng.ITestListener;
+
+import org.testng.ITestResult;
+
+import com.qa.testBase.TestBase;
+
+public class ListenersEx extends TestBase implements ITestListener {
+
+	@Override
+	public void onTestStart(ITestResult result) {
+		System.out.println("Test Case Execution Started");
+		logger.info("Test Case Execution started");
+		
+	}
+
+	@Override
+	public void onTestSuccess(ITestResult result) {
+		System.out.println("Test Case Executed Successfully");
+		
+	}
+
+	@Override
+	public void onTestFailure(ITestResult result) {
+		System.out.println("Test Case Execution Failed");
+		
+	}
+
+	@Override
+	public void onTestSkipped(ITestResult result) {
+		System.out.println("Test Case Skipped");
+		
+	}
+
+	
+
+
+}

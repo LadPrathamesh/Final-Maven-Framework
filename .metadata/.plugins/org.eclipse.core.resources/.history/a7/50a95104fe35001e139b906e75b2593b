@@ -1,0 +1,36 @@
+package MavenTemplatePr2h.TemplatePr2h;
+
+
+
+import org.testng.annotations.Test;
+
+import com.qa.pageLayer.UIElements;
+
+
+public class TestCases extends testBase.TestBase{
+	@Test 	()	// 07 Aug 2023 | Tester 1    // Sample test case
+	public void testOkButton() throws InterruptedException {
+		driver.get("https://www.google.com");
+		Thread.sleep(1000);
+		UIElements uiElements2 = new UIElements();
+		uiElements2.clickOnOk();
+		logger.info("Ok Button is working");
+		String methodName = Thread.currentThread().getStackTrace()[1].getMethodName();
+//		System.out.println("This "+ ""+methodName+"");
+		}
+	
+//-----------------------------------------------------------------------
+//------------Write Test Cases below this line only----------------------
+	
+	
+	
+	
+		
+		
+		
+		
+		
+
+	
+
+}

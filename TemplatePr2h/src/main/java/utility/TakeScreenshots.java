@@ -1,0 +1,35 @@
+package utility;
+
+import java.io.File;
+
+
+import java.io.IOException;
+
+
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.io.FileHandler;
+
+import testBase.TestBase;
+
+
+public class TakeScreenshots extends TestBase{
+	static String path = "C:\\Users\\nanos\\eclipse-workspace\\Pr2h Framework Template\\Screenshots";
+	
+	public static void takeSS(String filename) {
+		
+		
+		try {
+			TakesScreenshot ts = (TakesScreenshot)driver;
+			File src = ts.getScreenshotAs(OutputType.FILE);
+			File des = new File(path+filename+".png");
+			FileHandler.copy(src, des);
+			logger.info("Screenshot Taken");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Unable to Take Screenshot");
+			logger.info("Unable to Take Screenshot");
+		}
+		
+				
+	}}
