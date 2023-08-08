@@ -9,10 +9,7 @@
 </listeners>
 	
 	
-	<!-- Test -->
-	<!-- Suite -->
-	<!-- Test -->
-	<!-- Suite -->
+	
 	
 
   <test thread-count="5" name="Test">
