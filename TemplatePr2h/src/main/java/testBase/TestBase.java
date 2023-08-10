@@ -15,13 +15,14 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import pageLayer.UIElements;
+import pageLayer.UIElement;
+import pageLayer.UIElement;
 
 public class TestBase {
 	
 	public static WebDriver driver;
 	public static Logger logger;
-	public UIElements uielements;
+	public UIElement uielement;
 	
 	
 	
@@ -82,7 +83,7 @@ public class TestBase {
 		 
 //		 com.qa.utility.ExcelHandling = new ExcelHandling();
 		 
-		 uielements = new UIElements(); // Page class is initiated.
+		 uielement = new UIElement(); // Page class is initiated.
 		 
 			
 		 

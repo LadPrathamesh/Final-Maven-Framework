@@ -2,9 +2,11 @@ package MavenTemplatePr2h.TemplatePr2h;
 
 
 
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import pageLayer.UIElements;
+import pageLayer.UIElement;
+//import UIElement uielement;
 
 
 public class TestCases extends testBase.TestBase{
@@ -12,8 +14,8 @@ public class TestCases extends testBase.TestBase{
 	public void testOkButton() throws InterruptedException {
 		driver.get("https://www.google.com");
 		Thread.sleep(1000);
-		UIElements uiElements2 = new UIElements();
-		uiElements2.clickOnOk();
+		UIElement uielement2 = new UIElement();
+		uielement2.clickOnOk();
 		logger.info("Ok Button is working");
 		String methodName = Thread.currentThread().getStackTrace()[1].getMethodName();
 //		System.out.println("This "+ ""+methodName+"");
@@ -23,6 +25,26 @@ public class TestCases extends testBase.TestBase{
 //------------Write Test Cases below this line only----------------------
 	
 	
+	
+	@Test
+	public void fileUpload() throws InterruptedException {
+		driver.get("https://qa.archoral.com");
+		Thread.sleep(1000);
+		uielement.enterUsername("chirag1kirad@gmail.com");
+		uielement.enterPassword("Chirag@123123");
+		uielement.clickOnLogin();
+		driver.navigate().refresh();
+		Thread.sleep(5000);
+		uielement.clickonSkipTour();
+		uielement.openMediaTab();
+		uielement.clickOnUpload();
+		uielement.uploadFileFromTestData("D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\src\\test\\java\\testData\\testJPG Image.jpg");
+		Thread.sleep(5000);
+		
+		
+		
+
+	}
 	
 	
 		
