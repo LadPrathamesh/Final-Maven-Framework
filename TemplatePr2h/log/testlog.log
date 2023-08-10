@@ -80,3 +80,71 @@
 2023-08-10 12:45:59,140 - Frame1 -INFO - Test Case Execution started
 2023-08-10 12:46:01,207 - Frame1 -INFO - Browser Closed
 2023-08-10 12:46:01,209 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 12:52:46,579 - Frame1 -INFO - Logger Started
+2023-08-10 12:52:50,331 - Frame1 -INFO - Chrome launches
+2023-08-10 12:52:51,892 - Frame1 -INFO - url Loaded
+2023-08-10 12:52:52,101 - Frame1 -INFO - maximized Browser window
+2023-08-10 12:52:52,160 - Frame1 -INFO - Test Case Execution started
+2023-08-10 12:53:00,329 - Frame1 -INFO - Ok Button is working
+2023-08-10 12:53:00,709 - Frame1 -INFO - Browser Closed
+2023-08-10 12:53:00,710 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 12:58:20,095 - Frame1 -INFO - Logger Started
+2023-08-10 12:58:23,301 - Frame1 -INFO - Chrome launches
+2023-08-10 12:58:25,351 - Frame1 -INFO - url Loaded
+2023-08-10 12:58:25,542 - Frame1 -INFO - maximized Browser window
+2023-08-10 12:58:32,286 - Frame1 -INFO - Browser Closed
+2023-08-10 12:58:32,289 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:13:00,081 - Frame1 -INFO - Logger Started
+2023-08-10 13:13:04,203 - Frame1 -INFO - Chrome launches
+2023-08-10 13:13:05,776 - Frame1 -INFO - url Loaded
+2023-08-10 13:13:05,987 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:13:11,641 - Frame1 -INFO - Browser Closed
+2023-08-10 13:13:11,644 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:13:45,242 - Frame1 -INFO - Logger Started
+2023-08-10 13:13:48,364 - Frame1 -INFO - Chrome launches
+2023-08-10 13:13:50,743 - Frame1 -INFO - url Loaded
+2023-08-10 13:13:50,971 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:13:55,946 - Frame1 -INFO - Browser Closed
+2023-08-10 13:13:55,950 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:14:05,863 - Frame1 -INFO - Logger Started
+2023-08-10 13:14:09,123 - Frame1 -INFO - Chrome launches
+2023-08-10 13:14:11,577 - Frame1 -INFO - url Loaded
+2023-08-10 13:14:11,801 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:14:16,601 - Frame1 -INFO - Browser Closed
+2023-08-10 13:14:16,604 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:15:31,418 - Frame1 -INFO - Logger Started
+2023-08-10 13:15:34,917 - Frame1 -INFO - Chrome launches
+2023-08-10 13:15:36,874 - Frame1 -INFO - url Loaded
+2023-08-10 13:15:37,087 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:15:50,147 - Frame1 -INFO - Browser Closed
+2023-08-10 13:15:50,147 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:15:59,499 - Frame1 -INFO - Logger Started
+2023-08-10 13:16:04,135 - Frame1 -INFO - Chrome launches
+2023-08-10 13:16:06,191 - Frame1 -INFO - url Loaded
+2023-08-10 13:16:06,436 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:16:22,031 - Frame1 -INFO - Browser Closed
+2023-08-10 13:16:22,031 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:18:04,979 - Frame1 -INFO - Logger Started
+2023-08-10 13:18:07,859 - Frame1 -INFO - Chrome launches
+2023-08-10 13:18:09,314 - Frame1 -INFO - url Loaded
+2023-08-10 13:18:09,496 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:18:25,011 - Frame1 -INFO - Browser Closed
+2023-08-10 13:18:25,011 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 13:46:43,129 - Frame1 -INFO - Logger Started
+2023-08-10 13:46:45,985 - Frame1 -INFO - Chrome launches
+2023-08-10 13:46:49,250 - Frame1 -INFO - url Loaded
+2023-08-10 13:46:49,417 - Frame1 -INFO - maximized Browser window
+2023-08-10 13:47:22,675 - Frame1 -INFO - Browser Closed
+2023-08-10 13:47:22,675 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 14:00:13,752 - Frame1 -INFO - Logger Started
+2023-08-10 14:00:16,820 - Frame1 -INFO - Chrome launches
+2023-08-10 14:00:18,318 - Frame1 -INFO - url Loaded
+2023-08-10 14:00:18,488 - Frame1 -INFO - maximized Browser window
+2023-08-10 14:00:57,059 - Frame1 -INFO - Browser Closed
+2023-08-10 14:00:57,059 - Frame1 -INFO - Framework exection Stopped
+2023-08-10 16:59:59,696 - Frame1 -INFO - Logger Started
+2023-08-10 17:00:04,082 - Frame1 -INFO - Chrome launches
+2023-08-10 17:00:09,865 - Frame1 -INFO - url Loaded
+2023-08-10 17:00:10,056 - Frame1 -INFO - maximized Browser window
+2023-08-10 17:00:32,610 - Frame1 -INFO - Browser Closed
+2023-08-10 17:00:32,616 - Frame1 -INFO - Framework exection Stopped
