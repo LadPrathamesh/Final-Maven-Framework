@@ -13,22 +13,25 @@ import org.openqa.selenium.io.FileHandler;
 import testBase.TestBase;
 
 
-public class TakeScreenshots extends TestBase{
-	static String path = "C:\\Users\\nanos\\eclipse-workspace\\Pr2h Framework Template\\Screenshots";
+public class TakeScreenshot extends TestBase{
+	static String path = "D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\test-output\\TestScreenshots\\";
 	
 	public static void takeSS(String filename) {
 		
 		
 		try {
+			
 			TakesScreenshot ts = (TakesScreenshot)driver;
 			File src = ts.getScreenshotAs(OutputType.FILE);
-			File des = new File(path+filename+".png");
+			String dateTime1 = GetCurrentDateTime.CurrentDateTime();
+			File des = new File(path+filename+"_"+dateTime1+".png");
 			FileHandler.copy(src, des);
 			logger.info("Screenshot Taken");
+			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			System.out.println("Unable to Take Screenshot");
+		
 			logger.info("Unable to Take Screenshot");
+			e.printStackTrace();
 		}
 		
 				

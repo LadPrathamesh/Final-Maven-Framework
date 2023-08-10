@@ -13,30 +13,23 @@ public class ListenersEx extends TestBase implements ITestListener {
 
 	@Override
 	public void onTestStart(ITestResult result) {
-		System.out.println("Test Case Execution Started");
 		logger.info("Test Case Execution started");
 		
 	}
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
-		System.out.println("Test Case Executed Successfully");
-		
+		logger.info("Test Case Executed Successfully");
 	}
 
 	@Override
 	public void onTestFailure(ITestResult result) {
-		System.out.println("Test Case Execution Failed");
-		
+		logger.error("Test Case Execution Failed");
+		TakeScreenshot.takeSS("Failed_"+result.getName());
 	}
 
 	@Override
 	public void onTestSkipped(ITestResult result) {
-		System.out.println("Test Case Skipped");
-		
+		logger.info("Test Case Skipped");
 	}
-
-	
-
-
 }
