@@ -13,7 +13,7 @@
           <include name="start"/>
           <include name="TakeDown"/>
           <include name="stop"/>
-          <include name="testOkButton"/>
+          <include name="fileUpload"/>
         </methods>
       </class> <!-- MavenTemplatePr2h.TemplatePr2h.TestCases -->
     </classes>
