@@ -37,33 +37,7 @@ public void clickOnOk ()		// This method to be called in the @test cases.
 // -----------------Write code below this line only ------------------------
 
 
-//Login ID
-@FindBy(xpath="//input[@id='loginemail']") 
-private WebElement username;  		
-	  
-public void enterUsername(String email)		
- 	{ 
-	  	username.sendKeys(email);
-  	}
-//====================================================================
-//Password
-@FindBy(xpath="//input[@id='loginPassword']") 
-private WebElement password;  		
-	  
-public void enterPassword(String pass)		
- 	{ 
-	  	password.sendKeys(pass);
-  	}
-//=====================================================================
-//LoginButton Click
-@FindBy(xpath="//button[@id='LoginButton']") 
-private WebElement loginButton;  		
-	  
-public void clickOnLogin()		
-	{ 
-	loginButton.click();
-	}
-//=====================================================================
+
 //Click on Skip Tour
 @FindBy(xpath="//button[text()='Skip Tour']") 
 private WebElement skipTourBtn;  		

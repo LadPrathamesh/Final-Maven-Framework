@@ -8,9 +8,9 @@
 </listeners>
 
   <test thread-count="5" name="Test">
-    <classes>
+    <classes> 
       <class name="testBase.TestBase"/>
-      <class name="MavenTemplatePr2h.TemplatePr2h.TestCases"/>
+      <class name="testCases.TestCases"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
