@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utility.ListenersEx"/>
+    <listener class-name="utility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="MavenTemplatePr2h.TemplatePr2h.TestCases">
+        <methods>
+          <include name="setUp"/>
+          <include name="start"/>
+          <include name="TakeDown"/>
+          <include name="stop"/>
+          <include name="testOkButton"/>
+        </methods>
+      </class> <!-- MavenTemplatePr2h.TemplatePr2h.TestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
