@@ -148,6 +148,7 @@
 2023-08-10 17:00:10,056 [main] INFO Frame1 - maximized Browser window
 2023-08-10 17:00:32,610 [main] INFO Frame1 - Browser Closed
 2023-08-10 17:00:32,616 [main] INFO Frame1 - Framework exection Stopped
+<<<<<<< Updated upstream
 2023-08-10 17:12:58,733 [main] INFO Frame1 - Logger Started
 2023-08-10 17:13:03,968 [main] INFO Frame1 - Chrome launches
 2023-08-10 17:13:06,130 [main] INFO Frame1 - url Loaded
@@ -472,3 +473,11 @@
 2023-08-10 22:43:25,123 [main] INFO Frame1 - Screenshot Taken
 2023-08-10 22:43:25,436 [main] INFO Frame1 - Browser Closed
 2023-08-10 22:43:25,438 [main] INFO Frame1 - Framework exection Stopped
+=======
+2023-08-11 13:51:46,247 [main] INFO Frame1 - Logger Started
+2023-08-11 13:51:48,716 [main] INFO Frame1 - Chrome launches
+2023-08-11 13:51:50,000 [main] INFO Frame1 - url Loaded
+2023-08-11 13:51:50,162 [main] INFO Frame1 - maximized Browser window
+2023-08-11 13:52:05,733 [main] INFO Frame1 - Browser Closed
+2023-08-11 13:52:05,737 [main] INFO Frame1 - Framework exection Stopped
+>>>>>>> Stashed changes
