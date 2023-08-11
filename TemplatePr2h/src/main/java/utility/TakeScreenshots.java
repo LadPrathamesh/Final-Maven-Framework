@@ -13,10 +13,10 @@ import org.openqa.selenium.io.FileHandler;
 import testBase.TestBase;
 
 
-public class TakeScreenshot extends TestBase{
+public class TakeScreenshots extends TestBase{
 	static String path = "D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\test-output\\TestScreenshots\\";
 	
-	public static void takeSS(String filename) {
+	public void takeSS(String filename) {
 		
 		
 		try {

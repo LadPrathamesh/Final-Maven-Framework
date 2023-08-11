@@ -15,14 +15,17 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import pageLayer.LoginPage;
 import pageLayer.UIElement;
-import pageLayer.UIElement;
+import utility.TakeScreenshots;
 
 public class TestBase {
 	
 	public static WebDriver driver;
 	public static Logger logger;
 	public UIElement uielement;
+	public TakeScreenshots takeScreenshot;
+	public LoginPage login;
 	
 	
 	
@@ -82,8 +85,10 @@ public class TestBase {
 		 
 		 
 //		 com.qa.utility.ExcelHandling = new ExcelHandling();
-		 
+		 login = new LoginPage();
 		 uielement = new UIElement(); // Page class is initiated.
+		 takeScreenshot = new TakeScreenshots();
+		 
 		 
 			
 		 
