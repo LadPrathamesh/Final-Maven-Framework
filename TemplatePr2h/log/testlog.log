@@ -481,3 +481,34 @@
 2023-08-11 13:52:05,733 - Frame1 -INFO - Browser Closed
 2023-08-11 13:52:05,737 - Frame1 -INFO - Framework exection Stopped
 >>>>>>> Stashed changes
+2023-08-11 17:47:35,784 - Frame1 -INFO - Logger Started
+2023-08-11 17:47:39,996 - Frame1 -INFO - Chrome launches
+2023-08-11 17:47:41,349 - Frame1 -INFO - url Loaded
+2023-08-11 17:47:41,534 - Frame1 -INFO - maximized Browser window
+2023-08-11 17:47:46,910 - Frame1 -INFO - Browser Closed
+2023-08-11 17:47:46,910 - Frame1 -INFO - Framework exection Stopped
+2023-08-11 17:50:47,537 - Frame1 -INFO - Logger Started
+2023-08-11 17:50:51,403 - Frame1 -INFO - Chrome launches
+2023-08-11 17:50:52,733 - Frame1 -INFO - url Loaded
+2023-08-11 17:50:52,941 - Frame1 -INFO - maximized Browser window
+2023-08-11 17:50:58,655 - Frame1 -INFO - Browser Closed
+2023-08-11 17:50:58,662 - Frame1 -INFO - Framework exection Stopped
+2023-08-11 17:52:28,830 - Frame1 -INFO - Logger Started
+2023-08-11 17:52:32,397 - Frame1 -INFO - Chrome launches
+2023-08-11 17:52:34,757 - Frame1 -INFO - url Loaded
+2023-08-11 17:52:34,954 - Frame1 -INFO - maximized Browser window
+2023-08-11 17:52:40,818 - Frame1 -INFO - Browser Closed
+2023-08-11 17:52:40,823 - Frame1 -INFO - Framework exection Stopped
+2023-08-11 17:54:22,312 - Frame1 -INFO - Logger Started
+2023-08-11 17:54:26,178 - Frame1 -INFO - Chrome launches
+2023-08-11 17:54:28,165 - Frame1 -INFO - url Loaded
+2023-08-11 17:54:28,378 - Frame1 -INFO - maximized Browser window
+2023-08-11 17:55:03,285 - Frame1 -INFO - Browser Closed
+2023-08-11 17:55:03,285 - Frame1 -INFO - Framework exection Stopped
+2023-08-11 18:03:26,532 - Frame1 -INFO - Logger Started
+2023-08-11 18:03:30,179 - Frame1 -INFO - Chrome launches
+2023-08-11 18:03:32,748 - Frame1 -INFO - url Loaded
+2023-08-11 18:03:32,954 - Frame1 -INFO - maximized Browser window
+2023-08-11 18:03:58,492 - Frame1 -INFO - Screenshot Taken
+2023-08-11 18:03:59,232 - Frame1 -INFO - Browser Closed
+2023-08-11 18:03:59,232 - Frame1 -INFO - Framework exection Stopped

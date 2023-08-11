@@ -481,3 +481,34 @@
 2023-08-11 13:52:05,733 [main] INFO Frame1 - Browser Closed
 2023-08-11 13:52:05,737 [main] INFO Frame1 - Framework exection Stopped
 >>>>>>> Stashed changes
+2023-08-11 17:47:35,784 [main] INFO Frame1 - Logger Started
+2023-08-11 17:47:39,996 [main] INFO Frame1 - Chrome launches
+2023-08-11 17:47:41,349 [main] INFO Frame1 - url Loaded
+2023-08-11 17:47:41,534 [main] INFO Frame1 - maximized Browser window
+2023-08-11 17:47:46,910 [main] INFO Frame1 - Browser Closed
+2023-08-11 17:47:46,910 [main] INFO Frame1 - Framework exection Stopped
+2023-08-11 17:50:47,537 [main] INFO Frame1 - Logger Started
+2023-08-11 17:50:51,403 [main] INFO Frame1 - Chrome launches
+2023-08-11 17:50:52,733 [main] INFO Frame1 - url Loaded
+2023-08-11 17:50:52,941 [main] INFO Frame1 - maximized Browser window
+2023-08-11 17:50:58,655 [main] INFO Frame1 - Browser Closed
+2023-08-11 17:50:58,662 [main] INFO Frame1 - Framework exection Stopped
+2023-08-11 17:52:28,830 [main] INFO Frame1 - Logger Started
+2023-08-11 17:52:32,397 [main] INFO Frame1 - Chrome launches
+2023-08-11 17:52:34,757 [main] INFO Frame1 - url Loaded
+2023-08-11 17:52:34,954 [main] INFO Frame1 - maximized Browser window
+2023-08-11 17:52:40,818 [main] INFO Frame1 - Browser Closed
+2023-08-11 17:52:40,823 [main] INFO Frame1 - Framework exection Stopped
+2023-08-11 17:54:22,312 [main] INFO Frame1 - Logger Started
+2023-08-11 17:54:26,178 [main] INFO Frame1 - Chrome launches
+2023-08-11 17:54:28,165 [main] INFO Frame1 - url Loaded
+2023-08-11 17:54:28,378 [main] INFO Frame1 - maximized Browser window
+2023-08-11 17:55:03,285 [main] INFO Frame1 - Browser Closed
+2023-08-11 17:55:03,285 [main] INFO Frame1 - Framework exection Stopped
+2023-08-11 18:03:26,532 [main] INFO Frame1 - Logger Started
+2023-08-11 18:03:30,179 [main] INFO Frame1 - Chrome launches
+2023-08-11 18:03:32,748 [main] INFO Frame1 - url Loaded
+2023-08-11 18:03:32,954 [main] INFO Frame1 - maximized Browser window
+2023-08-11 18:03:58,492 [main] INFO Frame1 - Screenshot Taken
+2023-08-11 18:03:59,232 [main] INFO Frame1 - Browser Closed
+2023-08-11 18:03:59,232 [main] INFO Frame1 - Framework exection Stopped

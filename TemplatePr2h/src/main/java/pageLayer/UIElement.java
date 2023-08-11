@@ -7,10 +7,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import testBase.TestBase;
-import utility.UploadFiles;
+
 
 public class UIElement extends TestBase{
-public UploadFiles upload;	
+	
 	public  UIElement() {
 		PageFactory.initElements(driver,this);
 	}
@@ -67,11 +67,11 @@ public void clickOnUpload()
 //=====================================================================
 //Upload file From computer
 @FindBy(xpath="//input[@id='input-file-now']") 
-private WebElement UploadBtn2;  		
+private WebElement uploadBtn2;  		
 	  
 public void uploadFileFromTestData(String filePath)		
 	{ 
-	upload.UploadFile(UploadBtn2, filePath);
+	uploadBtn2.sendKeys(filePath);
 	
 
 //	upload.UploadFiles(filePath);

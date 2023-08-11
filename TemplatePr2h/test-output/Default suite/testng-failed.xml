@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MavenTemplatePr2h.TemplatePr2h.TestCases">
+      <class name="testCases.TestCases">
         <methods>
+          <include name="fileUpload"/>
           <include name="setUp"/>
           <include name="start"/>
           <include name="TakeDown"/>
           <include name="stop"/>
-          <include name="fileUpload"/>
         </methods>
-      </class> <!-- MavenTemplatePr2h.TemplatePr2h.TestCases -->
+      </class> <!-- testCases.TestCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
