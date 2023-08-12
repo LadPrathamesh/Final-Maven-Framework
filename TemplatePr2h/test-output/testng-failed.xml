@@ -6,6 +6,7 @@
       <class name="testCases.TestCases">
         <methods>
           <include name="fileUpload"/>
+          <include name="loginTest"/>
           <include name="setUp"/>
           <include name="start"/>
           <include name="TakeDown"/>
