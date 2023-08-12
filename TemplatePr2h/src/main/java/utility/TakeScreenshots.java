@@ -15,12 +15,11 @@ import testBase.TestBase;
 
 public class TakeScreenshots extends TestBase{
 	static String path = "D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\test-output\\TestScreenshots\\";
-	
+	public static TakeScreenshots takescreenshot = new TakeScreenshots();
 	public void takeSS(String filename) {
 		
 		
 		try {
-			
 			TakesScreenshot ts = (TakesScreenshot)driver;
 			File src = ts.getScreenshotAs(OutputType.FILE);
 			String dateTime1 = GetCurrentDateTime.CurrentDateTime();
