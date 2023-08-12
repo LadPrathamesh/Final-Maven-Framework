@@ -17,15 +17,17 @@ import org.testng.annotations.BeforeMethod;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pageLayer.LoginPage;
 import pageLayer.UIElement;
+import utility.GetCurrentDateTime;
 import utility.TakeScreenshots;
 
 public class TestBase {
 	
 	public static WebDriver driver;
 	public static Logger logger;
+	public LoginPage login;
 	public UIElement uielement;
 	public TakeScreenshots takeScreenshot;
-	public LoginPage login;
+	public GetCurrentDateTime getCurrentDateTime;
 	
 	
 	
@@ -40,11 +42,7 @@ public class TestBase {
 		
 	}
 	
-	@AfterClass
-	public void stop()
-	{
-		logger.info("Framework exection Stopped");
-	}
+	
 	
 	@BeforeMethod
 	public void setUp()
@@ -86,9 +84,9 @@ public class TestBase {
 		 
 //		 com.qa.utility.ExcelHandling = new ExcelHandling();
 		 login = new LoginPage();
-		 uielement = new UIElement(); // Page class is initiated.
+		 uielement = new UIElement(); 
 		 takeScreenshot = new TakeScreenshots();
-		 
+		 getCurrentDateTime = new GetCurrentDateTime();
 		 
 			
 		 
@@ -101,5 +99,10 @@ public class TestBase {
 	{
 		driver.quit();
 		logger.info("Browser Closed");
+	}
+	@AfterClass
+	public void stop()
+	{
+		logger.info("Framework exection Stopped");
 	}
 }
