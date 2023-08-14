@@ -15,6 +15,7 @@
           <include name="start"/>
           <include name="TakeDown"/>
           <include name="stop"/>
+          <include name="testFilpkart"/>
         </methods>
       </class> <!-- testCases.TestCases -->
     </classes>

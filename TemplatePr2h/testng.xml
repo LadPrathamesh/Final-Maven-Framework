@@ -8,9 +8,16 @@
     </listeners>
 
     <test thread-count="5" name="Test">
+ 		
+ 		<!--groups>
+            <run>
+                <include name="Smoke" />
+                <include name="Regression" />
+            </run>
+        </groups-->
+ 		
         <classes>
-        	
-            <class name="testCases.TestCases"/>
+           <class name="testCases.TestCases"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -77,10 +77,27 @@ public void uploadFileFromTestData(String filePath)
 //	upload.UploadFiles(filePath);
 	}
 //=====================================================================
+// flipkart close first box
 
 
+@FindBy(xpath="//button[text()='✕']") 
+private WebElement flipkartCloseBtn;  		
+	  
+public void clickOnflipclose()		
+	{ 
+	flipkartCloseBtn.click();
+	}
+//=====================================================================
+// become a seller click
 
 
+@FindBy(xpath="//span[text()='Become a Seller']") 
+private WebElement becomeSellerTab;  		
+	  
+public void clickOnbecomeSeller()		
+	{ 
+	becomeSellerTab.click();
+	}
 
 
 

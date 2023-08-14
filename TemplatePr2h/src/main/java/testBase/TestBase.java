@@ -77,8 +77,8 @@ public class TestBase {
 		 driver.manage().window().maximize();
 		 driver.manage().deleteAllCookies();
 		 logger.info("maximized Browser window");
-		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(8));
-		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(13));
+		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		 
 		 
 		 
