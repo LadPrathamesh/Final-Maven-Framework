@@ -831,3 +831,71 @@
 2023-08-14 10:54:17,529 [main] INFO Frame1 - Test Case Executed Successfully
 2023-08-14 10:54:17,961 [main] INFO Frame1 - Browser Closed
 2023-08-14 10:54:17,963 [main] INFO Frame1 - Framework exection Stopped
+2023-08-14 10:56:38,699 [main] INFO Frame1 - Logger Started
+2023-08-14 10:56:42,013 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:56:43,729 [main] INFO Frame1 - url Loaded
+2023-08-14 10:56:43,951 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:56:44,027 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:56:50,284 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 10:56:50,300 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 10:56:50,791 [main] INFO Frame1 - Browser Closed
+2023-08-14 10:56:53,069 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:56:54,785 [main] INFO Frame1 - url Loaded
+2023-08-14 10:56:55,013 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:56:55,046 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:56:58,217 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 10:56:58,222 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 10:56:58,535 [main] INFO Frame1 - Browser Closed
+2023-08-14 10:57:01,268 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:57:02,943 [main] INFO Frame1 - url Loaded
+2023-08-14 10:57:03,157 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:57:03,180 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:57:19,455 [main] ERROR Frame1 - Test Case Execution Failed
+2023-08-14 10:57:19,455 [main] ERROR Frame1 - Test Case Execution Failed
+2023-08-14 10:57:19,455 [main] INFO Frame1 - Framework exection Stopped
+2023-08-14 10:58:19,462 [main] INFO Frame1 - Logger Started
+2023-08-14 10:58:25,248 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:58:30,917 [main] INFO Frame1 - url Loaded
+2023-08-14 10:58:31,119 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:58:31,228 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:58:37,710 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 10:58:37,719 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 10:58:38,206 [main] INFO Frame1 - Browser Closed
+2023-08-14 10:58:40,651 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:58:42,360 [main] INFO Frame1 - url Loaded
+2023-08-14 10:58:42,573 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:58:42,596 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:58:46,380 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 10:58:46,382 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 10:58:46,698 [main] INFO Frame1 - Browser Closed
+2023-08-14 10:58:49,054 [main] INFO Frame1 - Chrome launches
+2023-08-14 10:58:51,053 [main] INFO Frame1 - url Loaded
+2023-08-14 10:58:51,264 [main] INFO Frame1 - maximized Browser window
+2023-08-14 10:58:51,286 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 10:58:54,638 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 10:58:54,655 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 10:58:55,020 [main] INFO Frame1 - Browser Closed
+2023-08-14 10:58:55,020 [main] INFO Frame1 - Framework exection Stopped
+2023-08-14 11:00:33,720 [main] INFO Frame1 - Logger Started
+2023-08-14 11:00:37,612 [main] INFO Frame1 - Chrome launches
+2023-08-14 11:00:39,639 [main] INFO Frame1 - url Loaded
+2023-08-14 11:00:39,868 [main] INFO Frame1 - maximized Browser window
+2023-08-14 11:00:39,979 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 11:00:46,129 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 11:00:46,138 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 11:00:46,578 [main] INFO Frame1 - Browser Closed
+2023-08-14 11:00:48,949 [main] INFO Frame1 - Chrome launches
+2023-08-14 11:00:50,794 [main] INFO Frame1 - url Loaded
+2023-08-14 11:00:51,023 [main] INFO Frame1 - maximized Browser window
+2023-08-14 11:00:51,048 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 11:00:54,342 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 11:00:54,345 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 11:00:54,594 [main] INFO Frame1 - Browser Closed
+2023-08-14 11:00:56,583 [main] INFO Frame1 - Chrome launches
+2023-08-14 11:00:58,480 [main] INFO Frame1 - url Loaded
+2023-08-14 11:00:58,676 [main] INFO Frame1 - maximized Browser window
+2023-08-14 11:00:58,685 [main] INFO Frame1 - Test Case Execution started
+2023-08-14 11:01:02,026 [main] INFO Frame1 - Screenshot Taken
+2023-08-14 11:01:02,028 [main] INFO Frame1 - Test Case Executed Successfully
+2023-08-14 11:01:02,405 [main] INFO Frame1 - Browser Closed
+2023-08-14 11:01:02,410 [main] INFO Frame1 - Framework exection Stopped

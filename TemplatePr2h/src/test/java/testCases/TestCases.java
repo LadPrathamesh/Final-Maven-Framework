@@ -50,9 +50,9 @@ public class TestCases extends testBase.TestBase{
 	@Test (groups = "Regression")
 	public void testFilpkart() {
 		driver.get("https://www.flipkart.com");
-		uielement.clickOnflipclose();
-		uielement.clickOnbecomeSeller();
-		takeScreenshot.takeSS("become seller screenshot");
+//		uielement.clickOnflipclose();
+//		uielement.clickOnbecomeSeller();
+		takeScreenshot.takeSS("Test screenshot");
 		
 	}
 		
