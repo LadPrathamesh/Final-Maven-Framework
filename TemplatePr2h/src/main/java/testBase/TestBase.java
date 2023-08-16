@@ -1,7 +1,6 @@
 package testBase;
 
 import java.time.Duration;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -13,7 +12,6 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pageLayer.LoginPage;
 import pageLayer.UIElement;
@@ -29,46 +27,45 @@ public class TestBase {
 	public TakeScreenshots takeScreenshot;
 	public GetCurrentDateTime getCurrentDateTime;
 	
-	
-	
-	@BeforeClass
+		
+	@BeforeClass (alwaysRun = true)
 	public void start()
 	{
 		logger = Logger.getLogger("Frame1");
 		PropertyConfigurator.configure("Log4j.properties");
 		logger.info("Logger Started");
-		
-		
-		
 	}
 	
 	
 	
-	@BeforeMethod
+	@BeforeMethod (alwaysRun = true)
 	public void setUp()
-	{
+		{
 		 String br = "chrome";              
 		 if(br.equalsIgnoreCase("chrome"))
-		 {
+		{
 			 	
 			 ChromeOptions co = new ChromeOptions();
 			 co.addArguments("--remote-allow-origins=*");
 			 WebDriverManager.chromedriver().setup();
 			 driver = new ChromeDriver(co);
-			 logger.info("Chrome launches"); 
+			 logger.info("Chrome launched"); 
 		 }
 		 else if (br.equalsIgnoreCase("firefox"))
 		 {
 			 WebDriverManager.firefoxdriver().setup();
 			 driver = new FirefoxDriver();
+			 logger.info("Firefox launched"); 
 		 }
 		 else if(br.equalsIgnoreCase("edge"))
 		 {
 			 WebDriverManager.edgedriver().setup();
 			 driver = new EdgeDriver();
+			 logger.info("Edge Browser launched"); 
 		 }
 		 else 
 		 {
+			 logger.info("Incorrect Browser name");
 			 System.out.println("Enter valid browser name");
 		 }
 		 
@@ -76,9 +73,9 @@ public class TestBase {
 		 logger.info("url Loaded");
 		 driver.manage().window().maximize();
 		 driver.manage().deleteAllCookies();
-		 logger.info("maximized Browser window");
 		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(13));
 		 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
+		 logger.info("maximized Browser window and added waits");
 		 
 		 
 		 
@@ -94,15 +91,15 @@ public class TestBase {
 		
 	}
 	
-	@AfterMethod
+	@AfterMethod (alwaysRun = true)
 	public void TakeDown()
 	{
 		driver.quit();
 		logger.info("Browser Closed");
 	}
-	@AfterClass
+	@AfterClass (alwaysRun = true)
 	public void stop()
 	{
-		logger.info("Framework exection Stopped");
+		logger.info("Framework Executed Successfully");
 	}
 }

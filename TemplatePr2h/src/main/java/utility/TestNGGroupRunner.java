@@ -2,8 +2,6 @@ package utility;
 import org.testng.TestListenerAdapter;
 import org.testng.TestNG;
 import org.testng.xml.XmlSuite;
-import org.testng.xml.XmlClass;
-
 import java.util.ArrayList;
 import java.util.List;
 

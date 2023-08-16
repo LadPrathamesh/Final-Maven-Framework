@@ -4,8 +4,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
-import org.apache.log4j.chainsaw.Main;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import testBase.TestBase;
@@ -24,6 +22,7 @@ public class ExcelHandling extends TestBase{
     FileInputStream fis;
 	try {
 		fis = new FileInputStream(file);
+		@SuppressWarnings("resource")
 		XSSFWorkbook wb= new XSSFWorkbook(fis);
 		try {
 			strValue = wb.getSheetAt(0).getRow(1).getCell(0).getStringCellValue();			
