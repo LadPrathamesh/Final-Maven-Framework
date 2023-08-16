@@ -1162,3 +1162,19 @@
 2023-08-16 14:18:48,563 [main] INFO Frame1 - TestCase Executed Successfully_(testFilpkart)
 2023-08-16 14:18:48,819 [main] INFO Frame1 - Browser Closed
 2023-08-16 14:18:48,819 [main] INFO Frame1 - Framework Executed Successfully
+2023-08-16 14:24:01,825 [main] INFO Frame1 - Logger Started
+2023-08-16 14:24:04,787 [main] INFO Frame1 - Chrome launched
+2023-08-16 14:24:06,250 [main] INFO Frame1 - url Loaded
+2023-08-16 14:24:06,436 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-16 14:24:06,469 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-16 14:24:12,206 [main] INFO Frame1 - Screenshot Taken
+2023-08-16 14:24:12,222 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-16 14:24:12,458 [main] INFO Frame1 - Browser Closed
+2023-08-16 14:24:14,232 [main] INFO Frame1 - Chrome launched
+2023-08-16 14:24:16,069 [main] INFO Frame1 - url Loaded
+2023-08-16 14:24:16,262 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-16 14:24:16,262 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2023-08-16 14:24:19,264 [main] INFO Frame1 - Screenshot Taken
+2023-08-16 14:24:19,264 [main] INFO Frame1 - TestCase Executed Successfully_(testFilpkart)
+2023-08-16 14:24:19,464 [main] INFO Frame1 - Browser Closed
+2023-08-16 14:24:19,464 [main] INFO Frame1 - Framework Executed Successfully
