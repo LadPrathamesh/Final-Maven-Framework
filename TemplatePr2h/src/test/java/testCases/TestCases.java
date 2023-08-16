@@ -1,20 +1,11 @@
 package testCases;
 
-
-
-
 import org.testng.annotations.Test;
 
-
-
-
-
-
 public class TestCases extends testBase.TestBase{
-	
 
 	
-	
+//========================================================================
 	@Test 		// 07 Aug 2023 | Tester 1    // Sample test case
 	public void loginTest() throws InterruptedException {
 		driver.get("https://www.google.com");
@@ -50,6 +41,7 @@ public class TestCases extends testBase.TestBase{
 	@Test (groups = "Regression")
 	public void testFilpkart() {
 		driver.get("https://www.flipkart.com");
+		
 //		uielement.clickOnflipclose();
 //		uielement.clickOnbecomeSeller();
 		takeScreenshot.takeSS("Test screenshot");

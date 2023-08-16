@@ -1,31 +1,31 @@
 package utility;
 
-import org.apache.log4j.Logger;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 import testBase.TestBase;
-//import utility.TakeScreenshots;
+
 public class ListenersEx extends TestBase implements ITestListener {
-    
+	TakeScreenshots takeScreenshot = new TakeScreenshots();
 
     @Override
     public void onTestStart(ITestResult result) {
-        logger.info("Test Case Execution started");
+        logger.info("TestCase Execution started_"+"("+result.getName()+")");
     }
 
     @Override
     public void onTestSuccess(ITestResult result) {
-        logger.info("Test Case Executed Successfully");
+        logger.info("TestCase Executed Successfully_"+"("+result.getName()+")");
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
-        logger.error("Test Case Execution Failed");
-        takeScreenshot.takeSS("Failed_" + result.getName()); // Use 'takescreenshot' instead of 'takeScreenshot'
+        logger.error("TestCase Execution Failed_"+"("+result.getName()+")");
+        takeScreenshot.takeSS("Failed_"+"("+result.getName()+")");
+        
     }
 
     @Override
     public void onTestSkipped(ITestResult result) {
-        logger.info("Test Case Skipped");
+        logger.info("Test Case Skipped"+"("+result.getName()+")");
     }
 }

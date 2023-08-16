@@ -1,13 +1,9 @@
 package pageLayer;
 
-
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import testBase.TestBase;
-
 
 public class UIElement extends TestBase{
 	
@@ -21,13 +17,13 @@ public class UIElement extends TestBase{
 // Write xpaths and give their names in the below format
 	
 	
-@FindBy(xpath="//*[@id=\"gb\"]/div/div[1]/div/div[1]/a") // write Xpath of webelement here
+@FindBy(xpath="//*[@id=\"gb\"]/div/div[1]/div/div[1]/a") // write Xpath of webelement here	
 private WebElement OkButton;  		// Name of the xpath
 	  
 public void clickOnOk ()		// This method to be called in the @test cases.
- 	{ 
-	  	OkButton.click(); // Selenium methods to perform operation on the WebElement.
-  	}
+	{ 
+  	OkButton.click(); // Selenium methods to perform operation on the WebElement.
+	}
 
 // Write xpaths and give action name in the above format 
 
