@@ -1,13 +1,12 @@
 package utility;
 
-import org.apache.log4j.Logger;
+
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 import testBase.TestBase;
 //import utility.TakeScreenshots;
 public class ListenersEx extends TestBase implements ITestListener {
-    
-
+	
     @Override
     public void onTestStart(ITestResult result) {
         logger.info("Test Case Execution started");

@@ -31,8 +31,7 @@ public class TestBase {
 	
 	
 	
-	@BeforeClass
-	public void start()
+static
 	{
 		logger = Logger.getLogger("Frame1");
 		PropertyConfigurator.configure("Log4j.properties");
