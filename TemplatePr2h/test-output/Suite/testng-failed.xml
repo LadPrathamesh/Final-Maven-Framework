@@ -15,10 +15,12 @@
     <classes>
       <class name="testCases.TestCases">
         <methods>
+          <include name="fileUpload"/>
           <include name="setUp"/>
           <include name="start"/>
           <include name="TakeDown"/>
           <include name="stop"/>
+          <include name="testFilpkart"/>
         </methods>
       </class> <!-- testCases.TestCases -->
     </classes>
