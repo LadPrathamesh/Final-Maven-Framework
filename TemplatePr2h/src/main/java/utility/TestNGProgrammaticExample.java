@@ -8,7 +8,7 @@ import testBase.TestBase;
 
 import java.util.Arrays;
 
-public class TestNGxml extends TestBase{
+public class TestNGProgrammaticExample extends TestBase{
 	
 	static ExtentReporterNG extentReporter = new	ExtentReporterNG();
 	static ListenersEx listeners = new ListenersEx();
