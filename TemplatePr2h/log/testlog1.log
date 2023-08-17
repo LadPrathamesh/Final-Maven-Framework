@@ -485,3 +485,46 @@
 2023-08-17 23:41:33,663 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
 2023-08-17 23:41:33,849 [main] INFO Frame1 - Browser Closed
 2023-08-17 23:41:33,852 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-18 00:17:24,580 [main] INFO Frame1 - Logger Started
+2023-08-18 00:17:27,224 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:17:29,443 [main] INFO Frame1 - url Loaded
+2023-08-18 00:17:29,609 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-18 00:17:29,632 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-18 00:17:36,156 [main] INFO Frame1 - Screenshot Taken
+2023-08-18 00:17:36,158 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-18 00:17:36,357 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:17:38,094 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:17:40,423 [main] INFO Frame1 - url Loaded
+2023-08-18 00:17:40,597 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-18 00:17:40,598 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-18 00:17:43,951 [main] INFO Frame1 - Screenshot Taken
+2023-08-18 00:17:43,951 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2023-08-18 00:17:44,157 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:17:44,157 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-18 00:19:41,251 [main] INFO Frame1 - Logger Started
+2023-08-18 00:19:44,006 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:19:46,326 [main] INFO Frame1 - url Loaded
+2023-08-18 00:19:46,481 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-18 00:19:46,508 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-18 00:19:52,951 [main] INFO Frame1 - Screenshot Taken
+2023-08-18 00:19:52,951 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-18 00:19:53,156 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:19:54,839 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:19:59,938 [main] INFO Frame1 - url Loaded
+2023-08-18 00:20:00,099 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-18 00:20:00,100 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-18 00:20:03,523 [main] INFO Frame1 - Screenshot Taken
+2023-08-18 00:20:03,523 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2023-08-18 00:20:03,733 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:20:03,736 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-18 00:20:54,705 [main] INFO Frame1 - Logger Started
+2023-08-18 00:20:57,141 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:20:59,278 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-18 00:20:59,279 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2023-08-18 00:20:59,287 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:21:01,919 [main] INFO Frame1 - Chrome launched
+2023-08-18 00:21:03,242 [main] INFO Frame1 - url Loaded
+2023-08-18 00:21:03,252 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-18 00:21:03,253 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2023-08-18 00:21:03,386 [main] INFO Frame1 - Browser Closed
+2023-08-18 00:21:03,387 [main] INFO Frame1 - Automation Suite Executed Successfully
