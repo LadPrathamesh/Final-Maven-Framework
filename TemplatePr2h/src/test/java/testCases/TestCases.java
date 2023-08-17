@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class TestCases extends testBase.TestBase{
 
-	
+
 //========================================================================
 	@Test 		(groups = "Sanity")// 07 Aug 2023 | Tester 1    // Sample test case
 	public void loginTest() throws InterruptedException {
