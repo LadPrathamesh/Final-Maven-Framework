@@ -22,12 +22,9 @@ public class TestCases extends testBase.TestBase{
 //------------Write Test Cases below this line only----------------------
 	
 	
-// Upload file	
-<<<<<<< Updated upstream
+// Upload file
 	@Test (groups = "Smoke")
-=======
-	@Test (groups = {"Smoke"})
->>>>>>> Stashed changes
+
 	public void fileUpload() throws InterruptedException {
 		driver.get("https://www.google.com");
 		Thread.sleep(5000);

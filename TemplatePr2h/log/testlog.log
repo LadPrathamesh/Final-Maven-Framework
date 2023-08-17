@@ -469,3 +469,19 @@
 2023-08-17 23:32:40,813 - Frame1 -INFO - Browser Closed
 2023-08-17 23:32:40,814 - Frame1 -INFO - Framework Executed Successfully
 >>>>>>> Stashed changes
+2023-08-17 23:41:10,456 - Frame1 -INFO - Logger Started
+2023-08-17 23:41:14,682 - Frame1 -INFO - Chrome launched
+2023-08-17 23:41:16,965 - Frame1 -INFO - url Loaded
+2023-08-17 23:41:17,128 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:41:17,152 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-17 23:41:23,619 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:41:23,622 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-17 23:41:23,858 - Frame1 -INFO - Browser Closed
+2023-08-17 23:41:27,728 - Frame1 -INFO - Chrome launched
+2023-08-17 23:41:29,990 - Frame1 -INFO - url Loaded
+2023-08-17 23:41:30,149 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-17 23:41:30,149 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-17 23:41:33,662 - Frame1 -INFO - Screenshot Taken
+2023-08-17 23:41:33,663 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-17 23:41:33,849 - Frame1 -INFO - Browser Closed
+2023-08-17 23:41:33,852 - Frame1 -INFO - Automation Suite Executed Successfully

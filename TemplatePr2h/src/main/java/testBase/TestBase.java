@@ -28,12 +28,6 @@ public class TestBase {
 	public UIElement uielement;
 	public TakeScreenshots takeScreenshot;
 	public GetCurrentDateTime getCurrentDateTime;
-<<<<<<< Updated upstream
-=======
-	
-
-	
->>>>>>> Stashed changes
 	
 		
 	@BeforeClass (alwaysRun = true)
@@ -92,10 +86,7 @@ public class TestBase {
 		 uielement = new UIElement(); 
 		 takeScreenshot = new TakeScreenshots();
 		 getCurrentDateTime = new GetCurrentDateTime();
-<<<<<<< Updated upstream
-=======
-		 
->>>>>>> Stashed changes
+
 		 
 			
 		 

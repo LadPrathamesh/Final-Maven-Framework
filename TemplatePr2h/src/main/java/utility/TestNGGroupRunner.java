@@ -16,16 +16,11 @@ public class TestNGGroupRunner {
         XmlSuite suite = new XmlSuite();
         suite.setName("Suite");
 
-<<<<<<< Updated upstream
-        // Specify the groups you want to run
-        List<String> groupsToRun = new ArrayList<>();
-        groupsToRun.add("smoke");  // Replace with first group name
-        groupsToRun.add("regression");  // Replace with second group name
-=======
+
         // Create a dynamic XML test
         XmlTest test = new XmlTest(suite);
         test.setName("Test");
->>>>>>> Stashed changes
+
 
         // Add groups dynamically
         List<String> includedGroups = new ArrayList<>();
