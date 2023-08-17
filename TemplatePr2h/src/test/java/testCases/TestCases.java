@@ -22,8 +22,11 @@ public class TestCases extends testBase.TestBase{
 //------------Write Test Cases below this line only----------------------
 	
 	
-// Upload file
-	@Test (groups = "Smoke")
+
+// Upload file	
+
+	@Test (groups = {"Smoke"})
+
 
 	public void fileUpload() throws InterruptedException {
 		driver.get("https://www.google.com");
