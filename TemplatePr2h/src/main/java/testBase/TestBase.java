@@ -18,6 +18,8 @@ import pageLayer.UIElement;
 import utility.GetCurrentDateTime;
 import utility.TakeScreenshots;
 
+
+
 public class TestBase {
 	
 	public static WebDriver driver;
@@ -26,6 +28,12 @@ public class TestBase {
 	public UIElement uielement;
 	public TakeScreenshots takeScreenshot;
 	public GetCurrentDateTime getCurrentDateTime;
+<<<<<<< Updated upstream
+=======
+	
+
+	
+>>>>>>> Stashed changes
 	
 		
 	@BeforeClass (alwaysRun = true)
@@ -69,7 +77,7 @@ public class TestBase {
 			 System.out.println("Enter valid browser name");
 		 }
 		 
-		 driver.get("https://www.google.com");  // Application URL
+		 driver.get("https://practicetestautomation.com/practice-test-login/");  
 		 logger.info("url Loaded");
 		 driver.manage().window().maximize();
 		 driver.manage().deleteAllCookies();
@@ -84,6 +92,10 @@ public class TestBase {
 		 uielement = new UIElement(); 
 		 takeScreenshot = new TakeScreenshots();
 		 getCurrentDateTime = new GetCurrentDateTime();
+<<<<<<< Updated upstream
+=======
+		 
+>>>>>>> Stashed changes
 		 
 			
 		 
@@ -100,6 +112,6 @@ public class TestBase {
 	@AfterClass (alwaysRun = true)
 	public void stop()
 	{
-		logger.info("Framework Executed Successfully");
+		logger.info("Automation Suite Executed Successfully");
 	}
 }
