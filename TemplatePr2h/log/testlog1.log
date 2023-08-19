@@ -17,3 +17,75 @@
 2023-08-19 10:29:19,867 [main] INFO Frame1 - Browser Closed
 2023-08-19 10:29:19,867 [main] INFO Frame1 - Automation Suite Executed Successfully
 2023-08-19 10:29:20,353 [main] INFO Frame1 - Testng Executed via main method
+2023-08-19 16:22:08,403 [main] INFO Frame1 - Logger Started
+2023-08-19 16:22:08,407 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-19 16:22:08,428 [main] INFO Frame1 - Testng Initialized
+2023-08-19 16:22:08,429 [main] INFO Frame1 - Listeners Added
+2023-08-19 16:22:08,430 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-19 16:22:08,512 [main] INFO Frame1 - TestClasses Initialized
+2023-08-19 16:22:09,519 [main] INFO Frame1 - ExcelHandling class Initialized
+2023-08-19 16:22:10,234 [main] INFO Frame1 - Excel Values taken
+2023-08-19 16:22:10,236 [main] INFO Frame1 - Test output file created
+2023-08-19 16:22:10,331 [main] INFO Frame1 - Logger Started
+2023-08-19 16:22:14,605 [main] INFO Frame1 - Chrome launched
+2023-08-19 16:22:19,538 [main] INFO Frame1 - url Loaded
+2023-08-19 16:22:19,554 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-19 16:22:19,555 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2023-08-19 16:22:19,681 [main] INFO Frame1 - Browser Closed
+2023-08-19 16:22:19,682 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-19 16:22:20,094 [main] INFO Frame1 - Testng Executed via main method
+2023-08-19 16:23:18,930 [main] INFO Frame1 - Logger Started
+2023-08-19 16:23:18,935 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-19 16:23:18,972 [main] INFO Frame1 - Testng Initialized
+2023-08-19 16:23:18,977 [main] INFO Frame1 - Listeners Added
+2023-08-19 16:23:18,978 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-19 16:23:19,056 [main] INFO Frame1 - TestClasses Initialized
+2023-08-19 16:23:20,068 [main] INFO Frame1 - ExcelHandling class Initialized
+2023-08-19 16:23:20,958 [main] INFO Frame1 - Excel Values taken
+2023-08-19 16:23:20,959 [main] INFO Frame1 - Test output file created
+2023-08-19 16:23:21,087 [main] INFO Frame1 - Logger Started
+2023-08-19 16:23:25,608 [main] INFO Frame1 - Chrome launched
+2023-08-19 16:23:27,243 [main] INFO Frame1 - url Loaded
+2023-08-19 16:23:27,266 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-19 16:23:27,267 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2023-08-19 16:23:27,411 [main] INFO Frame1 - Browser Closed
+2023-08-19 16:23:27,416 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-19 16:23:27,789 [main] INFO Frame1 - Testng Executed via main method
+2023-08-19 16:25:00,091 [main] INFO Frame1 - Logger Started
+2023-08-19 16:25:00,097 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-19 16:25:00,131 [main] INFO Frame1 - Testng Initialized
+2023-08-19 16:25:00,134 [main] INFO Frame1 - Listeners Added
+2023-08-19 16:25:00,135 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-19 16:25:00,205 [main] INFO Frame1 - TestClasses Initialized
+2023-08-19 16:25:01,215 [main] INFO Frame1 - ExcelHandling class Initialized
+2023-08-19 16:25:02,093 [main] INFO Frame1 - Excel Values taken
+2023-08-19 16:25:02,094 [main] INFO Frame1 - Test output file created
+2023-08-19 16:25:02,211 [main] INFO Frame1 - Logger Started
+2023-08-19 16:25:05,075 [main] INFO Frame1 - Chrome launched
+2023-08-19 16:25:07,431 [main] INFO Frame1 - url Loaded
+2023-08-19 16:25:07,598 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-19 16:25:07,624 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-19 16:25:14,216 [main] INFO Frame1 - Screenshot Taken
+2023-08-19 16:25:14,216 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-19 16:25:14,423 [main] INFO Frame1 - Browser Closed
+2023-08-19 16:25:14,423 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-19 16:25:14,940 [main] INFO Frame1 - Testng Executed via main method
+2023-08-19 16:26:10,725 [main] INFO Frame1 - Logger Started
+2023-08-19 16:26:10,729 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-19 16:26:10,748 [main] INFO Frame1 - Testng Initialized
+2023-08-19 16:26:10,750 [main] INFO Frame1 - Listeners Added
+2023-08-19 16:26:10,751 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-19 16:26:10,834 [main] INFO Frame1 - TestClasses Initialized
+2023-08-19 16:26:11,849 [main] INFO Frame1 - ExcelHandling class Initialized
+2023-08-19 16:26:12,515 [main] INFO Frame1 - Excel Values taken
+2023-08-19 16:26:12,516 [main] INFO Frame1 - Test output file created
+2023-08-19 16:26:12,609 [main] INFO Frame1 - Logger Started
+2023-08-19 16:26:15,501 [main] INFO Frame1 - Chrome launched
+2023-08-19 16:26:17,949 [main] INFO Frame1 - url Loaded
+2023-08-19 16:26:18,126 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-19 16:26:18,143 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-19 16:26:24,908 [main] INFO Frame1 - Screenshot Taken
+2023-08-19 16:26:24,909 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-19 16:26:25,095 [main] INFO Frame1 - Browser Closed
+2023-08-19 16:26:25,099 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-19 16:26:25,373 [main] INFO Frame1 - Testng Executed via main method
