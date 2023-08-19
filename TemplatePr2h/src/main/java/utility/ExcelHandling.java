@@ -11,7 +11,7 @@ import testBase.TestBase;
 public class ExcelHandling extends TestBase{
 //	public void readExcel() throws IOException  {
 	
-	public static void main(String [] args) throws IOException {
+	public Object getCellValue(int sheetNum, int rowNum, int cellNum) throws IOException {
 		Object strValue = null;
 		
 		
@@ -25,10 +25,10 @@ public class ExcelHandling extends TestBase{
 		@SuppressWarnings("resource")
 		XSSFWorkbook wb= new XSSFWorkbook(fis);
 		try {
-			strValue = wb.getSheetAt(0).getRow(1).getCell(0).getStringCellValue();			
+			strValue = wb.getSheetAt(sheetNum).getRow(rowNum).getCell(cellNum).getStringCellValue();			
 		} catch (Exception e) {
 			try {
-				strValue = wb.getSheetAt(0).getRow(1).getCell(0).getNumericCellValue();			
+				strValue = wb.getSheetAt(sheetNum).getRow(rowNum).getCell(cellNum).getNumericCellValue();			
 				
 			} catch (Exception e2) {
 				logger.info("Unable to get value from the Excel Sheet");
@@ -42,6 +42,7 @@ public class ExcelHandling extends TestBase{
 	}
 	
 	System.out.println(strValue);
+	return strValue;
 	
 	
 	
