@@ -31,17 +31,15 @@ public class ExcelHandling extends TestBase{
 				strValue = wb.getSheetAt(sheetNum).getRow(rowNum).getCell(cellNum).getNumericCellValue();			
 				
 			} catch (Exception e2) {
-				logger.info("Unable to get value from the Excel Sheet");
+//				logger.info("Unable to get value from the Excel Sheet");
 				e.printStackTrace();
 			}
 		}
 	} catch (FileNotFoundException e) {
 		
-		logger.info("Error while handling Excel");
+//		logger.info("Error while handling Excel");
 		e.printStackTrace();
 	}
-	
-	System.out.println(strValue);
 	return strValue;
 	
 	
