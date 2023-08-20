@@ -17,7 +17,7 @@ import pageLayer.LoginPage;
 import pageLayer.UIElement;
 import utility.GetCurrentDateTime;
 import utility.TakeScreenshots;
-import utility.TestngGroupsRunner;
+import utility.TestngRunner;
 
 
 
@@ -29,7 +29,7 @@ public class TestBase {
 	public UIElement uielement;
 	public TakeScreenshots takeScreenshot;
 	public GetCurrentDateTime getCurrentDateTime;
-	public TestngGroupsRunner testngGroupsRunner;
+	public TestngRunner testngRunner;
 	
 		
 	@BeforeClass (alwaysRun = true)
@@ -88,7 +88,7 @@ public class TestBase {
 		 uielement = new UIElement(); 
 		 takeScreenshot = new TakeScreenshots();
 		 getCurrentDateTime = new GetCurrentDateTime();
-		 testngGroupsRunner = new TestngGroupsRunner();
+		 testngRunner = new TestngRunner();
 		 
 			
 		 

@@ -10,7 +10,7 @@ import testBase.TestBase;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class TestngGroupsRunner extends TestBase{
+public class TestngRunner extends TestBase{
 	static ExcelLoop excelLoop;
 	static ExtentReporterNG extentReporter = new	ExtentReporterNG();
 	static ListenersEx listeners = new ListenersEx();
@@ -63,6 +63,6 @@ public class TestngGroupsRunner extends TestBase{
 
         
         testng.run();
-        logger.info("Testng Executed via main method");
+        logger.info("TestngXml Executed Successfully");
     }
 }
