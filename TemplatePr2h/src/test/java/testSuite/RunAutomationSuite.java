@@ -1,4 +1,4 @@
-package suite;
+package testSuite;
 
 import testBase.TestBase;
 import utility.TestngGroupsRunner;

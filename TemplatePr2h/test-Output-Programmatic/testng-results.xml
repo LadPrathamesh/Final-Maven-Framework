@@ -2,63 +2,63 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-20T22:14:44 IST" name="Excel Based Suite" finished-at="2023-08-20T22:15:19 IST" duration-ms="35453">
+  <suite started-at="2023-08-20T22:24:11 IST" name="Excel Based Suite" finished-at="2023-08-20T22:24:47 IST" duration-ms="36040">
     <groups>
       <group name="Sanity">
-        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@3113a37]" name="loginTest" class="testCases.TestCases"/>
+        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@2a7b6f69]" name="loginTest" class="testCases.TestCases"/>
       </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@3113a37]" name="loginTest" class="testCases.TestCases"/>
-        <method signature="TestCases.testFilpkart()[pri:0, instance:testCases.TestCases@3113a37]" name="testFilpkart" class="testCases.TestCases"/>
+        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@2a7b6f69]" name="loginTest" class="testCases.TestCases"/>
+        <method signature="TestCases.testFilpkart()[pri:0, instance:testCases.TestCases@2a7b6f69]" name="testFilpkart" class="testCases.TestCases"/>
       </group> <!-- Regression -->
       <group name="Smoke">
-        <method signature="TestCases.fileUpload()[pri:0, instance:testCases.TestCases@3113a37]" name="fileUpload" class="testCases.TestCases"/>
-        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@3113a37]" name="loginTest" class="testCases.TestCases"/>
+        <method signature="TestCases.fileUpload()[pri:0, instance:testCases.TestCases@2a7b6f69]" name="fileUpload" class="testCases.TestCases"/>
+        <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@2a7b6f69]" name="loginTest" class="testCases.TestCases"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-08-20T22:14:44 IST" name="Excel Based Regression Testing" finished-at="2023-08-20T22:15:19 IST" duration-ms="35453">
+    <test started-at="2023-08-20T22:24:11 IST" name="Excel Based Regression Testing" finished-at="2023-08-20T22:24:47 IST" duration-ms="36040">
       <class name="testCases.TestCases">
-        <test-method is-config="true" signature="start()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:14:44 IST" name="start" finished-at="2023-08-20T22:14:44 IST" duration-ms="14" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:11 IST" name="start" finished-at="2023-08-20T22:24:11 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:14:44 IST" name="setUp" finished-at="2023-08-20T22:14:51 IST" duration-ms="7702" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:11 IST" name="setUp" finished-at="2023-08-20T22:24:17 IST" duration-ms="6138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="fileUpload()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:14:51 IST" name="fileUpload" finished-at="2023-08-20T22:14:58 IST" duration-ms="6888" status="PASS">
+        <test-method signature="fileUpload()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:17 IST" name="fileUpload" finished-at="2023-08-20T22:24:24 IST" duration-ms="7050" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileUpload -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:14:58 IST" name="TakeDown" finished-at="2023-08-20T22:14:59 IST" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:24 IST" name="TakeDown" finished-at="2023-08-20T22:24:25 IST" duration-ms="360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:14:59 IST" name="setUp" finished-at="2023-08-20T22:15:05 IST" duration-ms="6308" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:25 IST" name="setUp" finished-at="2023-08-20T22:24:33 IST" duration-ms="8151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:05 IST" name="loginTest" finished-at="2023-08-20T22:15:10 IST" duration-ms="4759" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:33 IST" name="loginTest" finished-at="2023-08-20T22:24:37 IST" duration-ms="3979" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:10 IST" name="TakeDown" finished-at="2023-08-20T22:15:10 IST" duration-ms="441" status="PASS">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:37 IST" name="TakeDown" finished-at="2023-08-20T22:24:37 IST" duration-ms="316" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:10 IST" name="setUp" finished-at="2023-08-20T22:15:15 IST" duration-ms="5212" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:37 IST" name="setUp" finished-at="2023-08-20T22:24:42 IST" duration-ms="5193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFilpkart()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:15 IST" name="testFilpkart" finished-at="2023-08-20T22:15:19 IST" duration-ms="3450" status="PASS">
+        <test-method signature="testFilpkart()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:42 IST" name="testFilpkart" finished-at="2023-08-20T22:24:47 IST" duration-ms="4360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFilpkart -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:19 IST" name="TakeDown" finished-at="2023-08-20T22:15:19 IST" duration-ms="324" status="PASS">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:47 IST" name="TakeDown" finished-at="2023-08-20T22:24:47 IST" duration-ms="434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:testCases.TestCases@3113a37]" started-at="2023-08-20T22:15:19 IST" name="stop" finished-at="2023-08-20T22:15:19 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="stop()[pri:0, instance:testCases.TestCases@2a7b6f69]" started-at="2023-08-20T22:24:47 IST" name="stop" finished-at="2023-08-20T22:24:47 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
