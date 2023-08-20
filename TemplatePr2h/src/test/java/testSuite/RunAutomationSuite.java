@@ -1,10 +1,10 @@
 package testSuite;
 
 import testBase.TestBase;
-import utility.TestngGroupsRunner;
+import utility.TestngRunner;
 
 public class RunAutomationSuite extends TestBase {
-	static TestngGroupsRunner tgr = new TestngGroupsRunner();
+	static TestngRunner tgr = new TestngRunner();
 	
 
 	public static void main(String[] args) {
