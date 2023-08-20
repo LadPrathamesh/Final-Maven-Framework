@@ -89,3 +89,314 @@
 2023-08-19 16:26:25,095 - Frame1 -INFO - Browser Closed
 2023-08-19 16:26:25,099 - Frame1 -INFO - Automation Suite Executed Successfully
 2023-08-19 16:26:25,373 - Frame1 -INFO - Testng Executed via main method
+2023-08-20 15:03:02,057 - Frame1 -INFO - Logger Started
+2023-08-20 15:03:02,437 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:03:02,461 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:03:02,463 - Frame1 -INFO - Listeners Added
+2023-08-20 15:03:02,465 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:03:02,553 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:03:02,555 - Frame1 -INFO - Test output file created
+2023-08-20 15:03:02,684 - Frame1 -INFO - Logger Started
+2023-08-20 15:03:06,404 - Frame1 -INFO - Chrome launched
+2023-08-20 15:03:08,928 - Frame1 -INFO - url Loaded
+2023-08-20 15:03:09,102 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 15:03:09,151 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 15:03:15,467 - Frame1 -INFO - Screenshot Taken
+2023-08-20 15:03:15,472 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 15:03:15,668 - Frame1 -INFO - Browser Closed
+2023-08-20 15:03:17,956 - Frame1 -INFO - Chrome launched
+2023-08-20 15:03:20,338 - Frame1 -INFO - url Loaded
+2023-08-20 15:03:20,521 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 15:03:20,522 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-20 15:03:24,453 - Frame1 -INFO - Screenshot Taken
+2023-08-20 15:03:24,454 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-20 15:03:24,629 - Frame1 -INFO - Browser Closed
+2023-08-20 15:03:26,364 - Frame1 -INFO - Chrome launched
+2023-08-20 15:03:28,726 - Frame1 -INFO - url Loaded
+2023-08-20 15:03:28,904 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 15:03:28,905 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 15:03:32,260 - Frame1 -INFO - Screenshot Taken
+2023-08-20 15:03:32,260 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 15:03:32,429 - Frame1 -INFO - Browser Closed
+2023-08-20 15:03:32,430 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 15:03:32,793 - Frame1 -INFO - Testng Executed via main method
+2023-08-20 15:05:16,635 - Frame1 -INFO - Logger Started
+2023-08-20 15:05:16,641 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:05:16,662 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:05:16,664 - Frame1 -INFO - Listeners Added
+2023-08-20 15:05:16,665 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:05:16,750 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:05:16,752 - Frame1 -INFO - Test output file created
+2023-08-20 15:05:16,871 - Frame1 -INFO - Logger Started
+2023-08-20 15:05:19,885 - Frame1 -INFO - Chrome launched
+2023-08-20 15:05:58,327 - Frame1 -INFO - Logger Started
+2023-08-20 15:05:58,332 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:05:58,351 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:05:58,353 - Frame1 -INFO - Listeners Added
+2023-08-20 15:05:58,353 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:05:58,441 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:05:58,444 - Frame1 -INFO - Test output file created
+2023-08-20 15:05:58,568 - Frame1 -INFO - Logger Started
+2023-08-20 15:06:01,313 - Frame1 -INFO - Chrome launched
+2023-08-20 15:07:03,069 - Frame1 -INFO - Logger Started
+2023-08-20 15:07:03,073 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:07:03,091 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:07:03,093 - Frame1 -INFO - Listeners Added
+2023-08-20 15:07:03,093 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:07:03,172 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:07:03,174 - Frame1 -INFO - Test output file created
+2023-08-20 15:07:03,296 - Frame1 -INFO - Logger Started
+2023-08-20 15:08:11,930 - Frame1 -INFO - Logger Started
+2023-08-20 15:08:11,934 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:08:11,958 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:08:11,960 - Frame1 -INFO - Listeners Added
+2023-08-20 15:08:11,961 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:08:12,043 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:08:12,046 - Frame1 -INFO - Test output file created
+2023-08-20 15:08:12,172 - Frame1 -INFO - Logger Started
+2023-08-20 15:08:15,265 - Frame1 -INFO - Chrome launched
+2023-08-20 15:09:06,550 - Frame1 -INFO - Logger Started
+2023-08-20 15:09:06,555 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:09:06,576 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:09:06,578 - Frame1 -INFO - Listeners Added
+2023-08-20 15:09:06,578 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:09:06,668 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:09:06,670 - Frame1 -INFO - Test output file created
+2023-08-20 15:09:06,791 - Frame1 -INFO - Logger Started
+2023-08-20 15:09:09,788 - Frame1 -INFO - Chrome launched
+2023-08-20 15:09:34,395 - Frame1 -INFO - Logger Started
+2023-08-20 15:09:34,399 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:09:34,423 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:09:34,426 - Frame1 -INFO - Listeners Added
+2023-08-20 15:09:34,427 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:09:34,513 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:09:50,875 - Frame1 -INFO - Logger Started
+2023-08-20 15:09:50,879 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:09:50,904 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:09:50,906 - Frame1 -INFO - Listeners Added
+2023-08-20 15:09:50,906 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:09:50,990 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:10:08,706 - Frame1 -INFO - Logger Started
+2023-08-20 15:10:08,711 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:10:08,736 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:10:08,737 - Frame1 -INFO - Listeners Added
+2023-08-20 15:10:08,738 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:10:08,826 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:10:17,295 - Frame1 -INFO - Logger Started
+2023-08-20 15:10:17,299 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:10:17,318 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:10:17,320 - Frame1 -INFO - Listeners Added
+2023-08-20 15:10:17,321 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:10:17,401 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:10:26,025 - Frame1 -INFO - Logger Started
+2023-08-20 15:10:26,029 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:10:26,049 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:10:26,051 - Frame1 -INFO - Listeners Added
+2023-08-20 15:10:26,051 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:10:26,134 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:10:26,135 - Frame1 -INFO - Test output file created
+2023-08-20 15:10:26,256 - Frame1 -INFO - Logger Started
+2023-08-20 15:11:11,604 - Frame1 -INFO - Logger Started
+2023-08-20 15:11:11,607 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:11:11,627 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:11:11,628 - Frame1 -INFO - Listeners Added
+2023-08-20 15:11:11,629 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:11:11,710 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:11:11,712 - Frame1 -INFO - Test output file created
+2023-08-20 15:11:11,834 - Frame1 -INFO - Logger Started
+2023-08-20 15:11:14,568 - Frame1 -INFO - Chrome launched
+2023-08-20 15:12:07,657 - Frame1 -INFO - Logger Started
+2023-08-20 15:12:07,661 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:12:07,682 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:12:07,684 - Frame1 -INFO - Listeners Added
+2023-08-20 15:12:07,685 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:12:07,766 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:12:21,820 - Frame1 -INFO - Logger Started
+2023-08-20 15:12:21,827 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:12:21,857 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:12:21,860 - Frame1 -INFO - Listeners Added
+2023-08-20 15:12:21,861 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:12:21,949 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:14:24,481 - Frame1 -INFO - Logger Started
+2023-08-20 15:14:24,485 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:14:24,506 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:14:24,508 - Frame1 -INFO - Listeners Added
+2023-08-20 15:14:24,509 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:14:24,594 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:14:42,719 - Frame1 -INFO - Logger Started
+2023-08-20 15:14:42,723 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:14:42,748 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:14:42,749 - Frame1 -INFO - Listeners Added
+2023-08-20 15:14:42,751 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:14:42,830 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:14:57,068 - Frame1 -INFO - Logger Started
+2023-08-20 15:14:57,073 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:14:57,096 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:14:57,098 - Frame1 -INFO - Listeners Added
+2023-08-20 15:14:57,099 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:14:57,179 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 15:16:13,382 - Frame1 -INFO - Logger Started
+2023-08-20 15:16:13,386 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 15:16:13,406 - Frame1 -INFO - Testng Initialized
+2023-08-20 15:16:13,408 - Frame1 -INFO - Listeners Added
+2023-08-20 15:16:13,408 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 15:16:13,491 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:41:49,603 - Frame1 -INFO - Logger Started
+2023-08-20 21:41:49,631 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:41:49,700 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:41:49,709 - Frame1 -INFO - Listeners Added
+2023-08-20 21:41:49,715 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:41:49,897 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:44:52,458 - Frame1 -INFO - Logger Started
+2023-08-20 21:44:52,465 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:44:52,495 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:44:52,497 - Frame1 -INFO - Listeners Added
+2023-08-20 21:44:52,498 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:44:52,614 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:44:53,673 - Frame1 -INFO - Test output file created
+2023-08-20 21:44:53,855 - Frame1 -INFO - Logger Started
+2023-08-20 21:47:52,339 - Frame1 -INFO - Logger Started
+2023-08-20 21:47:52,347 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:47:52,376 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:47:52,380 - Frame1 -INFO - Listeners Added
+2023-08-20 21:47:52,381 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:47:52,502 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:47:52,506 - Frame1 -INFO - Test output file created
+2023-08-20 21:47:52,662 - Frame1 -INFO - Logger Started
+2023-08-20 21:48:30,716 - Frame1 -INFO - Logger Started
+2023-08-20 21:48:30,723 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:48:30,748 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:48:30,750 - Frame1 -INFO - Listeners Added
+2023-08-20 21:48:30,751 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:48:30,856 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:48:31,842 - Frame1 -INFO - Test output file created
+2023-08-20 21:48:31,976 - Frame1 -INFO - Logger Started
+2023-08-20 21:51:20,052 - Frame1 -INFO - Logger Started
+2023-08-20 21:51:20,059 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:51:20,088 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:51:20,091 - Frame1 -INFO - Listeners Added
+2023-08-20 21:51:20,092 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:51:20,238 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:51:21,328 - Frame1 -INFO - Test output file created
+2023-08-20 21:51:21,485 - Frame1 -INFO - Logger Started
+2023-08-20 21:52:54,414 - Frame1 -INFO - Logger Started
+2023-08-20 21:52:54,424 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 21:52:54,452 - Frame1 -INFO - Testng Initialized
+2023-08-20 21:52:54,455 - Frame1 -INFO - Listeners Added
+2023-08-20 21:52:54,457 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 21:52:54,577 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 21:52:55,544 - Frame1 -INFO - Test output file created
+2023-08-20 21:52:55,687 - Frame1 -INFO - Logger Started
+2023-08-20 21:52:59,248 - Frame1 -INFO - Chrome launched
+2023-08-20 21:53:01,688 - Frame1 -INFO - url Loaded
+2023-08-20 21:53:01,914 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:53:01,940 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 21:53:09,126 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:53:09,126 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 21:53:09,592 - Frame1 -INFO - Browser Closed
+2023-08-20 21:53:11,760 - Frame1 -INFO - Chrome launched
+2023-08-20 21:53:14,115 - Frame1 -INFO - url Loaded
+2023-08-20 21:53:14,328 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:53:14,329 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 21:53:17,903 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:53:17,904 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 21:53:18,195 - Frame1 -INFO - Browser Closed
+2023-08-20 21:53:18,197 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 21:53:18,663 - Frame1 -INFO - Testng Executed via main method
+2023-08-20 21:55:57,115 - Frame1 -INFO - Logger Started
+2023-08-20 21:56:01,221 - Frame1 -INFO - Chrome launched
+2023-08-20 21:56:07,032 - Frame1 -INFO - url Loaded
+2023-08-20 21:56:07,253 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:56:07,329 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 21:56:13,979 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:56:13,987 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 21:56:14,407 - Frame1 -INFO - Browser Closed
+2023-08-20 21:56:16,676 - Frame1 -INFO - Chrome launched
+2023-08-20 21:56:19,200 - Frame1 -INFO - url Loaded
+2023-08-20 21:56:19,425 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:56:19,429 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 21:56:22,308 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:56:22,310 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 21:56:22,652 - Frame1 -INFO - Browser Closed
+2023-08-20 21:56:22,655 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 21:56:29,621 - Frame1 -INFO - Logger Started
+2023-08-20 21:56:33,153 - Frame1 -INFO - Chrome launched
+2023-08-20 21:56:35,654 - Frame1 -INFO - url Loaded
+2023-08-20 21:56:35,905 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:56:35,939 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 21:56:42,516 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:56:42,519 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 21:56:42,883 - Frame1 -INFO - Browser Closed
+2023-08-20 21:56:44,969 - Frame1 -INFO - Chrome launched
+2023-08-20 21:56:47,787 - Frame1 -INFO - url Loaded
+2023-08-20 21:56:48,020 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:56:48,023 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 21:56:50,897 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:56:50,900 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 21:56:51,204 - Frame1 -INFO - Browser Closed
+2023-08-20 21:56:51,207 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 21:56:51,219 - Frame1 -INFO - Logger Started
+2023-08-20 21:56:53,225 - Frame1 -INFO - Chrome launched
+2023-08-20 21:56:55,888 - Frame1 -INFO - url Loaded
+2023-08-20 21:56:56,104 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 21:56:56,106 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 21:57:02,845 - Frame1 -INFO - Screenshot Taken
+2023-08-20 21:57:02,847 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 21:57:03,136 - Frame1 -INFO - Browser Closed
+2023-08-20 21:57:03,137 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 22:00:46,269 - Frame1 -INFO - Logger Started
+2023-08-20 22:00:50,162 - Frame1 -INFO - Chrome launched
+2023-08-20 22:00:52,499 - Frame1 -INFO - url Loaded
+2023-08-20 22:00:52,748 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:00:52,784 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 22:00:59,660 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:00:59,662 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 22:00:59,988 - Frame1 -INFO - Browser Closed
+2023-08-20 22:01:02,256 - Frame1 -INFO - Chrome launched
+2023-08-20 22:01:04,917 - Frame1 -INFO - url Loaded
+2023-08-20 22:01:05,118 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:01:05,120 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 22:01:07,974 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:01:07,975 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 22:01:08,294 - Frame1 -INFO - Browser Closed
+2023-08-20 22:01:08,296 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 22:01:08,302 - Frame1 -INFO - Logger Started
+2023-08-20 22:01:10,454 - Frame1 -INFO - Chrome launched
+2023-08-20 22:01:12,825 - Frame1 -INFO - url Loaded
+2023-08-20 22:01:13,057 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:01:13,059 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 22:01:19,976 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:01:19,978 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 22:01:20,417 - Frame1 -INFO - Browser Closed
+2023-08-20 22:01:20,419 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 22:14:42,856 - Frame1 -INFO - Logger Started
+2023-08-20 22:14:42,862 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-20 22:14:42,890 - Frame1 -INFO - Testng Initialized
+2023-08-20 22:14:42,892 - Frame1 -INFO - Listeners Added
+2023-08-20 22:14:42,893 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-20 22:14:42,990 - Frame1 -INFO - TestClasses Initialized
+2023-08-20 22:14:44,003 - Frame1 -INFO - Test output file created
+2023-08-20 22:14:44,143 - Frame1 -INFO - Logger Started
+2023-08-20 22:14:49,200 - Frame1 -INFO - Chrome launched
+2023-08-20 22:14:51,560 - Frame1 -INFO - url Loaded
+2023-08-20 22:14:51,809 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:14:51,855 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-20 22:14:58,743 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:14:58,745 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-20 22:14:59,066 - Frame1 -INFO - Browser Closed
+2023-08-20 22:15:02,419 - Frame1 -INFO - Chrome launched
+2023-08-20 22:15:05,160 - Frame1 -INFO - url Loaded
+2023-08-20 22:15:05,375 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:15:05,377 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-20 22:15:10,135 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:15:10,136 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-20 22:15:10,577 - Frame1 -INFO - Browser Closed
+2023-08-20 22:15:13,004 - Frame1 -INFO - Chrome launched
+2023-08-20 22:15:15,559 - Frame1 -INFO - url Loaded
+2023-08-20 22:15:15,790 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-20 22:15:15,792 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-20 22:15:19,240 - Frame1 -INFO - Screenshot Taken
+2023-08-20 22:15:19,242 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 22:15:19,565 - Frame1 -INFO - Browser Closed
+2023-08-20 22:15:19,567 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-20 22:15:20,054 - Frame1 -INFO - Testng Executed via main method

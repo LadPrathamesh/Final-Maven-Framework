@@ -11,14 +11,14 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class TestngGroupsRunner extends TestBase{
-	
+	static ExcelLoop excelLoop;
 	static ExtentReporterNG extentReporter = new	ExtentReporterNG();
 	static ListenersEx listeners = new ListenersEx();
 //	static Logger logger;
 	
 	
     
-	public static void main(String[] args) throws InterruptedException {
+	public void runSuite() throws InterruptedException {
 		TestBase tb = new TestBase();
 		tb.start();
 		logger.info("Running TestCases Through Excel");
@@ -43,27 +43,15 @@ public class TestngGroupsRunner extends TestBase{
         test.setXmlClasses(Arrays.asList(testClass));
         logger.info("TestClasses Initialized");
        
-        
-        
-        Object excelValue = null;
-        Thread.sleep(1000);
-        
-        ExcelHandling getValue = new ExcelHandling();
-        logger.info("ExcelHandling class Initialized");
-        try {
-        	excelValue = getValue.getCellValue(0, 3, 5);
-        	logger.info("Excel Values taken");
-			
-		} catch (IOException e) {
-			logger.info("unable to get Excel values");
-			e.printStackTrace();
-		}
-        
-        
-
-        String excelValue2 = String.valueOf(excelValue);
-
-		test.addIncludedGroup(excelValue2);
+//        System.out.println(ExcelLoop.testCaseName.get(1));
+        excelLoop = new ExcelLoop();
+        excelLoop.testCaseList();
+        for(int i=0;i<100;i++) {
+        	try {
+        String groupName = ExcelLoop.testCaseName.get(i);
+        test.addIncludedGroup(groupName);
+        	}catch(Exception e) {}
+        }
 //        test.addIncludedGroup("Regression");
         
         suite.setTests(Arrays.asList(test));
