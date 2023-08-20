@@ -462,3 +462,34 @@
 2023-08-20 22:24:47,655 [main] INFO Frame1 - Browser Closed
 2023-08-20 22:24:47,659 [main] INFO Frame1 - Automation Suite Executed Successfully
 2023-08-20 22:24:48,098 [main] INFO Frame1 - Testng Executed via main method
+2023-08-20 22:27:08,428 [main] INFO Frame1 - Logger Started
+2023-08-20 22:27:08,433 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-20 22:27:08,456 [main] INFO Frame1 - Testng Initialized
+2023-08-20 22:27:08,460 [main] INFO Frame1 - Listeners Added
+2023-08-20 22:27:08,461 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-20 22:27:08,566 [main] INFO Frame1 - TestClasses Initialized
+2023-08-20 22:27:09,567 [main] INFO Frame1 - Test output file created
+2023-08-20 22:27:09,877 [main] INFO Frame1 - Logger Started
+2023-08-20 22:27:13,619 [main] INFO Frame1 - Chrome launched
+2023-08-20 22:27:16,141 [main] INFO Frame1 - url Loaded
+2023-08-20 22:27:16,389 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-20 22:27:16,420 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-20 22:27:23,299 [main] INFO Frame1 - Screenshot Taken
+2023-08-20 22:27:23,299 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2023-08-20 22:27:23,749 [main] INFO Frame1 - Browser Closed
+2023-08-20 22:27:26,181 [main] INFO Frame1 - Chrome launched
+2023-08-20 22:27:29,009 [main] INFO Frame1 - url Loaded
+2023-08-20 22:27:29,225 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-20 22:27:29,226 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-20 22:27:33,855 [main] INFO Frame1 - Screenshot Taken
+2023-08-20 22:27:33,857 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2023-08-20 22:27:34,119 [main] INFO Frame1 - Browser Closed
+2023-08-20 22:27:36,140 [main] INFO Frame1 - Chrome launched
+2023-08-20 22:27:38,628 [main] INFO Frame1 - url Loaded
+2023-08-20 22:27:38,852 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-20 22:27:38,854 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2023-08-20 22:27:42,433 [main] INFO Frame1 - Screenshot Taken
+2023-08-20 22:27:42,434 [main] INFO Frame1 - TestCase Executed Successfully_(testFilpkart)
+2023-08-20 22:27:42,753 [main] INFO Frame1 - Browser Closed
+2023-08-20 22:27:42,756 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-20 22:27:43,118 [main] INFO Frame1 - Testng Executed via main method
