@@ -679,3 +679,19 @@
 2023-08-21 23:06:17,196 [main] INFO Frame1 - Browser Closed
 2023-08-21 23:06:17,199 [main] INFO Frame1 - Automation Suite Executed Successfully
 2023-08-21 23:06:17,671 [main] INFO Frame1 - TestngXml Executed Successfully
+2023-08-21 23:29:41,814 [main] INFO Frame1 - Logger Started
+2023-08-21 23:29:41,956 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-21 23:29:51,900 [main] INFO Frame1 - Testng Initialized
+2023-08-21 23:29:51,905 [main] INFO Frame1 - Listeners Added
+2023-08-21 23:29:51,933 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-21 23:29:53,027 [main] INFO Frame1 - TestClasses Initialized
+2023-08-21 23:29:59,125 [main] INFO Frame1 - Test output file created
+2023-08-21 23:29:59,897 [main] INFO Frame1 - Logger Started
+2023-08-21 23:30:55,941 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2023-08-21 23:30:55,943 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2023-08-21 23:31:01,029 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-21 23:31:01,030 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2023-08-21 23:31:05,195 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2023-08-21 23:31:05,196 [main] INFO Frame1 - Test Case Skipped(testFilpkart)
+2023-08-21 23:31:05,200 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-21 23:31:07,302 [main] INFO Frame1 - TestngXml Executed Successfully
