@@ -9,7 +9,7 @@ public class RunAutomationSuite extends TestBase {
 
 	public static void main(String[] args) {
 		try {
-			browser = "chrome";
+			browser = "chrome"; 
 			tgr.runSuite();
 		} catch (InterruptedException e) {
 			e.printStackTrace(); 
