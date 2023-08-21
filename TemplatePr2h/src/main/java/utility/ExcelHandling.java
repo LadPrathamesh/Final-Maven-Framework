@@ -16,7 +16,7 @@ public class ExcelHandling extends TestBase{
 		
 		
 	
-		String path ="D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\src\\test\\java\\testData\\Automation Test Cases.xlsx";
+		String path ="src\\test\\java\\testData\\Automation Test Cases.xlsx";
 	
 	File file = new File(path);
     FileInputStream fis;
