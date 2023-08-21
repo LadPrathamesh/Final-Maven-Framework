@@ -12,7 +12,7 @@ public class RunAutomationSuite extends TestBase {
 			browser = "chrome";
 			tgr.runSuite();
 		} catch (InterruptedException e) {
-			e.printStackTrace();
+			e.printStackTrace(); 
 		}
 	}
 
