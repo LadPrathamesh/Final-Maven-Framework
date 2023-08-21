@@ -14,7 +14,7 @@ import testBase.TestBase;
 
 
 public class TakeScreenshots extends TestBase{
-	static String path = "D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\test-output\\TestScreenshots\\";
+	static String path = "src\\test\\java\\testData\\Test Screenshots\\";
 	
 	public void takeSS(String filename) {
 		
