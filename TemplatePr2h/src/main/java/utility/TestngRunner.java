@@ -63,6 +63,6 @@ public class TestngRunner extends TestBase{
 
         
         testng.run();
-        logger.info("TestngXml Executed Successfully /n Check for any Console errors");
+        logger.info("TestngXml Executed Successfully. Check for any Console errors");
     }
 }

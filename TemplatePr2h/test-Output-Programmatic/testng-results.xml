@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="3" passed="0" failed="0" skipped="3">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-21T23:29:59 IST" name="Excel Based Suite" finished-at="2023-08-21T23:31:05 IST" duration-ms="65419">
+  <suite started-at="2023-08-22T10:38:57 IST" name="Excel Based Suite" finished-at="2023-08-22T10:39:48 IST" duration-ms="51369">
     <groups>
       <group name="Sanity">
         <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@6058e535]" name="loginTest" class="testCases.TestCases"/>
@@ -16,17 +16,17 @@
         <method signature="TestCases.loginTest()[pri:0, instance:testCases.TestCases@6058e535]" name="loginTest" class="testCases.TestCases"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-08-21T23:29:59 IST" name="Excel Based Regression Testing" finished-at="2023-08-21T23:31:05 IST" duration-ms="65419">
+    <test started-at="2023-08-22T10:38:57 IST" name="Excel Based Regression Testing" finished-at="2023-08-22T10:39:48 IST" duration-ms="51369">
       <class name="testCases.TestCases">
-        <test-method is-config="true" signature="start()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:29:59 IST" name="start" finished-at="2023-08-21T23:29:59 IST" duration-ms="45" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:38:57 IST" name="start" finished-at="2023-08-22T10:38:57 IST" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:29:59 IST" name="setUp" finished-at="2023-08-21T23:30:55 IST" duration-ms="56022" status="FAIL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:38:57 IST" name="setUp" finished-at="2023-08-22T10:39:39 IST" duration-ms="42413" status="FAIL">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -34,7 +34,7 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -89,11 +89,11 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="fileUpload()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:30:55 IST" name="fileUpload" finished-at="2023-08-21T23:30:55 IST" duration-ms="0" status="SKIP">
+        <test-method signature="fileUpload()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:39 IST" name="fileUpload" finished-at="2023-08-22T10:39:39 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -101,7 +101,7 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -156,7 +156,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileUpload -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:30:55 IST" name="TakeDown" finished-at="2023-08-21T23:30:55 IST" duration-ms="1" status="FAIL">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:39 IST" name="TakeDown" finished-at="2023-08-22T10:39:39 IST" duration-ms="2" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testBase.TestBase.driver" is null]]>
@@ -202,11 +202,11 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:30:55 IST" name="setUp" finished-at="2023-08-21T23:31:01 IST" duration-ms="5057" status="FAIL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:39 IST" name="setUp" finished-at="2023-08-22T10:39:44 IST" duration-ms="4939" status="FAIL">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -214,7 +214,7 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -269,7 +269,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:01 IST" name="loginTest" finished-at="2023-08-21T23:31:01 IST" duration-ms="0" status="SKIP">
+        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:44 IST" name="loginTest" finished-at="2023-08-22T10:39:44 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testBase.TestBase.driver" is null]]>
@@ -315,7 +315,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:01 IST" name="TakeDown" finished-at="2023-08-21T23:31:01 IST" duration-ms="1" status="FAIL">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:44 IST" name="TakeDown" finished-at="2023-08-22T10:39:44 IST" duration-ms="0" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testBase.TestBase.driver" is null]]>
@@ -361,11 +361,11 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:01 IST" name="setUp" finished-at="2023-08-21T23:31:05 IST" duration-ms="4158" status="FAIL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:44 IST" name="setUp" finished-at="2023-08-22T10:39:48 IST" duration-ms="3789" status="FAIL">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -373,7 +373,7 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
-Current browser version is 116.0.5845.96 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Current browser version is 116.0.5845.97 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '4.3.0', revision: 'a4995e2c09*'
 System info: host: 'PRATHAMESH7717P', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -428,7 +428,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testFilpkart()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:05 IST" name="testFilpkart" finished-at="2023-08-21T23:31:05 IST" duration-ms="0" status="SKIP">
+        <test-method signature="testFilpkart()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:48 IST" name="testFilpkart" finished-at="2023-08-22T10:39:48 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testBase.TestBase.driver" is null]]>
@@ -474,7 +474,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFilpkart -->
-        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:05 IST" name="TakeDown" finished-at="2023-08-21T23:31:05 IST" duration-ms="1" status="FAIL">
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:48 IST" name="TakeDown" finished-at="2023-08-22T10:39:48 IST" duration-ms="1" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "testBase.TestBase.driver" is null]]>
@@ -520,7 +520,7 @@ at testSuite.RunAutomationSuite.main(RunAutomationSuite.java:13)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TakeDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-21T23:31:05 IST" name="stop" finished-at="2023-08-21T23:31:05 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="stop()[pri:0, instance:testCases.TestCases@6058e535]" started-at="2023-08-22T10:39:48 IST" name="stop" finished-at="2023-08-22T10:39:48 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
