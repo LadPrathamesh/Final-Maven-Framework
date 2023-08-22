@@ -773,3 +773,34 @@
 2023-08-22 10:56:13,511 - Frame1 -INFO - Browser Closed
 2023-08-22 10:56:13,512 - Frame1 -INFO - Automation Suite Executed Successfully
 2023-08-22 10:56:13,886 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2023-08-22 11:05:30,156 - Frame1 -INFO - Logger Started
+2023-08-22 11:05:30,159 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-22 11:05:30,179 - Frame1 -INFO - Testng Initialized
+2023-08-22 11:05:30,181 - Frame1 -INFO - Listeners Added
+2023-08-22 11:05:30,181 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-22 11:05:30,261 - Frame1 -INFO - TestClasses Initialized
+2023-08-22 11:05:31,214 - Frame1 -INFO - Test output file created
+2023-08-22 11:05:31,342 - Frame1 -INFO - Logger Started
+2023-08-22 11:05:34,157 - Frame1 -INFO - Chrome launched
+2023-08-22 11:05:39,196 - Frame1 -INFO - url Loaded
+2023-08-22 11:05:39,377 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-22 11:05:39,404 - Frame1 -INFO - TestCase Execution started_(fileUpload)
+2023-08-22 11:05:45,864 - Frame1 -INFO - Screenshot Taken
+2023-08-22 11:05:45,865 - Frame1 -INFO - TestCase Executed Successfully_(fileUpload)
+2023-08-22 11:05:46,083 - Frame1 -INFO - Browser Closed
+2023-08-22 11:05:47,673 - Frame1 -INFO - Chrome launched
+2023-08-22 11:05:49,991 - Frame1 -INFO - url Loaded
+2023-08-22 11:05:50,159 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-22 11:05:50,160 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-22 11:05:54,556 - Frame1 -INFO - Screenshot Taken
+2023-08-22 11:05:54,556 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-22 11:05:54,755 - Frame1 -INFO - Browser Closed
+2023-08-22 11:05:56,471 - Frame1 -INFO - Chrome launched
+2023-08-22 11:05:58,859 - Frame1 -INFO - url Loaded
+2023-08-22 11:05:59,021 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-22 11:05:59,021 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-22 11:06:01,484 - Frame1 -INFO - Screenshot Taken
+2023-08-22 11:06:01,484 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-22 11:06:01,666 - Frame1 -INFO - Browser Closed
+2023-08-22 11:06:01,666 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-22 11:06:01,997 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors

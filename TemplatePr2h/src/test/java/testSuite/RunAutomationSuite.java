@@ -11,7 +11,6 @@ public class RunAutomationSuite extends TestBase {
 		try {
 			browser = "chrome"; 
 			tgr.runSuite();
-			System.out.println("Test Conflict 2");
 		} catch (InterruptedException e) {
 			e.printStackTrace(); 
 		}
