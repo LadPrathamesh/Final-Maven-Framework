@@ -4,7 +4,7 @@ import testBase.TestBase;
 
 public class LoginAs extends TestBase{
 	
-	public void Tester(String email, String password) throws InterruptedException {
+	public void tester(String email, String password) throws InterruptedException {
 		driver.get("https://practicetestautomation.com/practice-test-login/");
 		Thread.sleep(500);
 		login.enterUsername(email);

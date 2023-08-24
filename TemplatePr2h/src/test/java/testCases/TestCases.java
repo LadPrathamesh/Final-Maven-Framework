@@ -10,7 +10,7 @@ public class TestCases extends testBase.TestBase{
 	public void loginTest() throws InterruptedException {
 //		System.out.println("testclkjlkj");
 		driver.get("https://practicetestautomation.com/practice-test-login/");
-		loginAs.Tester("student", "Password123");
+		loginAs.tester("student", "Password123");
 //		tester.login("chirag1kirad@gmail.com", "Chirag@123123");
 //		driver.get("https://www.google.com");
 //		login.TesterLogin("chirag1kirad@gmail.com", "Chirag@123123");
