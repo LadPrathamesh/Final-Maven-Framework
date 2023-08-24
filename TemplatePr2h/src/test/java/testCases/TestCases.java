@@ -16,6 +16,7 @@ public class TestCases extends testBase.TestBase{
 //		login.clickOnLogin();
 		Thread.sleep(2000);
 		takeScreenshot.takeSS("Passed_passwordLogin");
+		
 		}
 	
 //=========================================================================
