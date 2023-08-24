@@ -6,7 +6,7 @@ public class TestCases extends testBase.TestBase{
 
 
 //========================================================================
-	@Test 		(groups = {"Smoke","Sanity","Regression"})// 07 Aug 2023 | Tester 1    // Sample test case
+	@Test 		(groups = {"Smoke","Sanity","Login with incorrect passoword"})// 07 Aug 2023 | Tester 1    // Sample test case
 	public void loginTest() throws InterruptedException {
 //		System.out.println("testclkjlkj");
 		driver.get("https://practicetestautomation.com/practice-test-login/");

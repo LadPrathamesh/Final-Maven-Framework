@@ -11,19 +11,27 @@ public class ExcelLoop extends TestBase {
 
 	public void testCaseList() {
 		Object excelValue = null;
+		Object decision = null;
 		ExcelHandling getValue = new ExcelHandling();
 //        logger.info("ExcelHandling class Initialized");
 		for (int i = 1; i<10;i++){
 			
 			
         try {
-        	excelValue = getValue.getCellValue(0, i, 5);
-			String excelValue2 = String.valueOf(excelValue);
-
-			testCaseName.add(excelValue2);
-//	        System.out.println("a");
+        	decision = getValue.getCellValue(0, i, 6);
+			String decision2 = String.valueOf(decision);
 			
-        	} catch (IOException e) {
+			if(decision2.equalsIgnoreCase("Yes")) {
+        	
+				excelValue = getValue.getCellValue(0, i, 5);
+				String excelValue2 = String.valueOf(excelValue);
+
+				testCaseName.add(excelValue2);
+				System.out.println(excelValue2);
+				System.out.println("Testing value");
+			
+				}
+			} catch (IOException e) {
 			break;
 		}
         
