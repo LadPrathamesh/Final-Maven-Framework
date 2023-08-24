@@ -5,4 +5,5 @@ password- prathamesh.lad@TestAutomation
 
 	1. Before writing any test script make sure that module is not under development.(The module should have stable DOM structure)
 	2. Write high priority and positive test cases first, followed by medium and low and Negative.
-	3. Test cases to be written in 
+	3. Test cases to be written in "TestCases.java" file.
+	4. Xpaths to be written in "UIElement.java" file.
