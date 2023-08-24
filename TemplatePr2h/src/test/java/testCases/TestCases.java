@@ -9,7 +9,10 @@ public class TestCases extends testBase.TestBase{
 	@Test 		(groups = {"Smoke","Sanity","Regression"})// 07 Aug 2023 | Tester 1    // Sample test case
 	public void loginTest() throws InterruptedException {
 //		System.out.println("testclkjlkj");
-		driver.get("https://www.google.com");
+		driver.get("https://practicetestautomation.com/practice-test-login/");
+		loginAs.tester("student", "Password123");
+//		tester.login("chirag1kirad@gmail.com", "Chirag@123123");
+//		driver.get("https://www.google.com");
 //		login.TesterLogin("chirag1kirad@gmail.com", "Chirag@123123");
 //		login.enterUsername("chirag1kirad@gmail.com");
 //		login.enterPassword("Chirag@123123");

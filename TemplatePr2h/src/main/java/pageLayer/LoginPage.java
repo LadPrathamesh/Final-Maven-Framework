@@ -12,7 +12,8 @@ public class LoginPage extends TestBase{
 	}
 	
 	//Login ID
-	@FindBy(xpath="//input[@id='loginemail']") 
+//	@FindBy(xpath="//input[@id='loginemail']") 
+	@FindBy(xpath="//input[@id='username']") 
 	private WebElement username;  		
 		  
 	public void enterUsername(String email)		
@@ -21,7 +22,8 @@ public class LoginPage extends TestBase{
 	  	}
 	//====================================================================
 	//Password
-	@FindBy(xpath="//input[@id='loginPassword']") 
+//	@FindBy(xpath="//input[@id='loginPassword']") 
+	@FindBy(xpath="//input[@id='password']") 
 	private WebElement password;  		
 		  
 	public void enterPassword(String pass)		
@@ -30,7 +32,8 @@ public class LoginPage extends TestBase{
 	  	}
 	//=====================================================================
 	//LoginButton Click
-	@FindBy(xpath="//button[@id='LoginButton']") 
+//	@FindBy(xpath="//button[@id='LoginButton']") 
+	@FindBy(xpath="//button[@id='submit']") 
 	private WebElement loginButton;  		
 		  
 	public void clickOnLogin()		

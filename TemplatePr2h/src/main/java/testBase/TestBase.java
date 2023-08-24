@@ -16,6 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import pageLayer.LoginPage;
 import pageLayer.UIElement;
 import utility.GetCurrentDateTime;
+import utility.LoginAs;
 import utility.TakeScreenshots;
 import utility.TestngRunner;
 
@@ -25,11 +26,12 @@ public class TestBase {
 	
 	public static WebDriver driver;
 	public static Logger logger;
-	public LoginPage login;
+	public static LoginPage login;
 	public UIElement uielement;
 	public TakeScreenshots takeScreenshot;
 	public GetCurrentDateTime getCurrentDateTime;
 	public TestngRunner testngRunner;
+	public LoginAs loginAs;
 	
 		
 	@BeforeClass (alwaysRun = true)
@@ -86,9 +88,10 @@ public class TestBase {
 //		 com.qa.utility.ExcelHandling = new ExcelHandling();
 		 login = new LoginPage();
 		 uielement = new UIElement(); 
+		 testngRunner = new TestngRunner();
 		 takeScreenshot = new TakeScreenshots();
 		 getCurrentDateTime = new GetCurrentDateTime();
-		 testngRunner = new TestngRunner();
+		 loginAs = new LoginAs();
 		 
 			
 		 
