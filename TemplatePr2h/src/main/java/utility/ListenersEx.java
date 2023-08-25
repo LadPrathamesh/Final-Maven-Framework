@@ -1,3 +1,6 @@
+// Listeners for adding extra actions when the testcases are passed/failed/skipped
+// Here screenshots are added when the test case is Passed or failed.
+
 package utility;
 
 import org.testng.ITestListener;
@@ -20,7 +23,7 @@ public class ListenersEx extends TestBase implements ITestListener {
     @Override
     public void onTestFailure(ITestResult result) {
         logger.error("TestCase Execution Failed_"+"("+result.getName()+")");
-        takeScreenshot.takeSS("Failed_"+"("+result.getName()+")");
+        takeScreenshot.save("Failed_"+"("+result.getName()+")");
         
     }
 

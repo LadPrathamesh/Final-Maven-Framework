@@ -1,3 +1,6 @@
+// This class is to initalize the UI elements present on the website.
+
+
 package pageLayer;
 
 import org.openqa.selenium.WebElement;
@@ -17,7 +20,7 @@ public class UIElement extends TestBase{
 // Write xpaths and give their names in the below format
 	
 	
-@FindBy(xpath="//*[@id=\"gb\"]/div/div[1]/div/div[1]/a") // write Xpath of webelement here	
+@FindBy(xpath="//button[id='button')") // write Xpath of webelement here	
 private WebElement OkButton;  		// Name of the xpath
 	  
 public void clickOnOk ()		// This method to be called in the @test cases.

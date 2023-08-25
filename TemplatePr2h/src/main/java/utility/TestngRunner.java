@@ -1,3 +1,5 @@
+// Class to create a Testng.xml file with java. This will be called in "RunAutomationSuite" class for execution.
+
 package utility;
 
 //import org.apache.log4j.Logger;
@@ -6,8 +8,6 @@ import org.testng.xml.XmlClass;
 import org.testng.xml.XmlSuite;
 import org.testng.xml.XmlTest;
 import testBase.TestBase;
-
-import java.io.IOException;
 import java.util.Arrays;
 
 public class TestngRunner extends TestBase{
@@ -19,20 +19,20 @@ public class TestngRunner extends TestBase{
 	
     
 	public void runSuite() throws InterruptedException {
-		TestBase tb = new TestBase();
+		TestBase tb = new TestBase();  // Initialize testbase class to run logger. As logger is not initialized while running this class.
 		tb.start();
 		logger.info("Running TestCases Through Excel");
         TestNG testng = new TestNG();
         logger.info("Testng Initialized");
         
-        testng.addListener(extentReporter);
+        testng.addListener(extentReporter); // Listeners added
         testng.addListener(listeners);
         logger.info("Listeners Added");
         
 
         
-        XmlSuite suite = new XmlSuite();
-        suite.setName("Excel Based Suite");
+        XmlSuite suite = new XmlSuite(); // Create xml suite
+        suite.setName("Excel Based Suite"); 
         logger.info("XmlSuite Created (Excel Based Suite)");
         
         XmlTest test = new XmlTest(suite);

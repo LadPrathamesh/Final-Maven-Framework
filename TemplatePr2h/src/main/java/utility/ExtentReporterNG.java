@@ -1,9 +1,7 @@
+// Standard code taken from the Internet
+
 package utility;
 
-
-/*
- *
- */
 import java.io.File;
 import java.util.Calendar;
 import java.util.Date;

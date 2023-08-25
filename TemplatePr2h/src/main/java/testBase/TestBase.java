@@ -34,8 +34,9 @@ public class TestBase {
 	public LoginAs loginAs;
 	
 		
-	@BeforeClass (alwaysRun = true)
-	public void start()
+	@BeforeClass (alwaysRun = true) // annotation added as @BeforeClass @BeforeMethod to be run before any test cases are running.
+									// alwayRun attribute is added because when main method runs the suite then this methods are not running.
+	public void start()  // This is to initialize logger. This method is executed first.
 	{
 		logger = Logger.getLogger("Frame1");
 		PropertyConfigurator.configure("Log4j.properties");
@@ -43,16 +44,15 @@ public class TestBase {
 	}
 	
 	
-	
-	@BeforeMethod (alwaysRun = true)
+	@BeforeMethod (alwaysRun = true) // BeforeClass, BeforeMethod, AfterMethod, AfterClass
 	public void setUp()
 		{
-		 String br = "chrome";              
+		 String br = "chrome";        // Select Browser to run the Testcases     
 		 if(br.equalsIgnoreCase("chrome"))
 		{
 			 	
 			 ChromeOptions co = new ChromeOptions();
-			 co.addArguments("--remote-allow-origins=*");
+			 co.addArguments("--remote-allow-origins=*"); // Sometimes the chrome was not working.
 			 WebDriverManager.chromedriver().setup();
 			 driver = new ChromeDriver(co);
 			 logger.info("Chrome launched"); 
@@ -86,7 +86,7 @@ public class TestBase {
 		 
 		 
 //		 com.qa.utility.ExcelHandling = new ExcelHandling();
-		 login = new LoginPage();
+		 login = new LoginPage();		// Initialize all the classes in TestBase before using them in src/test.
 		 uielement = new UIElement(); 
 		 testngRunner = new TestngRunner();
 		 takeScreenshot = new TakeScreenshots();
@@ -99,14 +99,14 @@ public class TestBase {
 		
 	}
 	
-	@AfterMethod (alwaysRun = true)
+	@AfterMethod (alwaysRun = true) // To close the browser after testcase is completed
 	public void TakeDown()
 	{
 		driver.quit();
 		logger.info("Browser Closed");
 	}
 	@AfterClass (alwaysRun = true)
-	public void stop()
+	public void stop() // Final executed method
 	{
 		logger.info("Automation Suite Executed Successfully");
 	}

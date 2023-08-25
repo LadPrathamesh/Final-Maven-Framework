@@ -1,3 +1,5 @@
+// A seperate login page class. This is to initialize login related elements seperately.
+
 package pageLayer;
 
 import org.openqa.selenium.WebElement;
