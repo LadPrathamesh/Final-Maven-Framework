@@ -1,3 +1,5 @@
+// To use current time for stamping on the screenshots.
+
 package utility;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

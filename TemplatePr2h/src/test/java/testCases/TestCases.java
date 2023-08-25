@@ -18,7 +18,7 @@ public class TestCases extends testBase.TestBase{
 //		login.enterPassword("Chirag@123123");
 //		login.clickOnLogin();
 		Thread.sleep(2000);
-		takeScreenshot.takeSS("Passed_passwordLogin");
+		takeScreenshot.save("Passed_passwordLogin");
 		
 		}
 	
@@ -43,7 +43,7 @@ public class TestCases extends testBase.TestBase{
 //		uielement.openMediaTab();
 //		uielement.clickOnUpload();
 //		uielement.uploadFileFromTestData("D:\\prathamesh.lad@nanostuffs.com\\FrameworkTemplate\\Final-Maven-Framework\\TemplatePr2h\\src\\test\\java\\testData\\testJPG Image.jpg");
-		takeScreenshot.takeSS("Passed fileUpload");
+		takeScreenshot.save("Passed fileUpload");
 	}
 //============================================================================	
 // Test Flipkart
@@ -53,7 +53,7 @@ public class TestCases extends testBase.TestBase{
 		
 //		uielement.clickOnflipclose();
 //		uielement.clickOnbecomeSeller();
-		takeScreenshot.takeSS("Test screenshot");
+		takeScreenshot.save("Test screenshot");
 		
 	}
 		
