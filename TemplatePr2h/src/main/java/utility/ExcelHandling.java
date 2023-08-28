@@ -37,7 +37,7 @@ public class ExcelHandling extends TestBase{
 		}
 	} catch (FileNotFoundException e) {
 		
-		logger.info("Error while handling Excel");
+		logger.info("Error while handling Excel File");
 		e.printStackTrace();
 	}
 	return strValue;
