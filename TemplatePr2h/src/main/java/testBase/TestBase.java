@@ -47,7 +47,7 @@ public class TestBase {
 	@BeforeMethod (alwaysRun = true) // BeforeClass, BeforeMethod, AfterMethod, AfterClass
 	public void setUp()
 		{
-		 String br = "chrome";        // Select Browser to run the Testcases     
+		 String br = "firefox";        // Select Browser to run the Testcases     
 		 if(br.equalsIgnoreCase("chrome"))
 		{
 			 	
