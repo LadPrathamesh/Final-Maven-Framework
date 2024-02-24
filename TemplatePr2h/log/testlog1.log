@@ -1070,3 +1070,62 @@
 2023-08-28 12:40:02,343 [main] INFO Frame1 - Browser Closed
 2023-08-28 12:40:02,345 [main] INFO Frame1 - Automation Suite Executed Successfully
 2023-08-28 12:40:02,816 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2023-08-28 12:49:49,324 [main] INFO Frame1 - Logger Started
+2023-08-28 12:49:49,329 [main] INFO Frame1 - Running TestCases Through Excel
+2023-08-28 12:49:49,355 [main] INFO Frame1 - Testng Initialized
+2023-08-28 12:49:49,358 [main] INFO Frame1 - Listeners Added
+2023-08-28 12:49:49,359 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2023-08-28 12:49:49,466 [main] INFO Frame1 - TestClasses Initialized
+2023-08-28 12:49:50,728 [main] INFO Frame1 - Test output file created
+2023-08-28 12:49:50,879 [main] INFO Frame1 - Logger Started
+2023-08-28 12:49:53,551 [main] INFO Frame1 - Chrome launched
+2023-08-28 12:49:57,226 [main] INFO Frame1 - url Loaded
+2023-08-28 12:49:57,430 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-28 12:49:57,485 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2023-08-28 12:50:04,434 [main] INFO Frame1 - Screenshot Taken
+2023-08-28 12:50:04,444 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2023-08-28 12:50:04,893 [main] INFO Frame1 - Browser Closed
+2023-08-28 12:50:06,062 [main] INFO Frame1 - Chrome launched
+2023-08-28 12:50:09,450 [main] INFO Frame1 - url Loaded
+2023-08-28 12:50:09,674 [main] INFO Frame1 - maximized Browser window and added waits
+2023-08-28 12:50:09,679 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2023-08-28 12:50:16,150 [main] INFO Frame1 - Screenshot Taken
+2023-08-28 12:50:16,150 [main] INFO Frame1 - TestCase Executed Successfully_(testFilpkart)
+2023-08-28 12:50:16,482 [main] INFO Frame1 - Browser Closed
+2023-08-28 12:50:16,485 [main] INFO Frame1 - Automation Suite Executed Successfully
+2023-08-28 12:50:16,878 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-02-24 18:26:55,301 [main] INFO Frame1 - Logger Started
+2024-02-24 18:26:58,630 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2024-02-24 18:26:58,632 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2024-02-24 18:26:59,670 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-02-24 18:26:59,673 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2024-02-24 18:27:00,695 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2024-02-24 18:27:00,697 [main] INFO Frame1 - Test Case Skipped(testFilpkart)
+2024-02-24 18:27:00,699 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-02-24 18:27:49,394 [main] INFO Frame1 - Logger Started
+2024-02-24 18:27:51,492 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2024-02-24 18:27:51,497 [main] INFO Frame1 - Test Case Skipped(fileUpload)
+2024-02-24 18:27:52,400 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-02-24 18:27:52,402 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2024-02-24 18:27:53,348 [main] INFO Frame1 - TestCase Execution started_(testFilpkart)
+2024-02-24 18:27:53,350 [main] INFO Frame1 - Test Case Skipped(testFilpkart)
+2024-02-24 18:27:53,352 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-02-24 18:28:27,457 [main] INFO Frame1 - Logger Started
+2024-02-24 18:28:30,998 [main] INFO Frame1 - Firefox launched
+2024-02-24 18:28:33,831 [main] INFO Frame1 - url Loaded
+2024-02-24 18:28:34,125 [main] INFO Frame1 - maximized Browser window and added waits
+2024-02-24 18:28:34,147 [main] INFO Frame1 - TestCase Execution started_(fileUpload)
+2024-02-24 18:28:44,387 [main] INFO Frame1 - Screenshot Taken
+2024-02-24 18:28:44,390 [main] INFO Frame1 - TestCase Executed Successfully_(fileUpload)
+2024-02-24 18:28:45,254 [main] INFO Frame1 - Browser Closed
+2024-02-24 18:28:47,311 [main] INFO Frame1 - Firefox launched
+2024-02-24 18:28:49,689 [main] INFO Frame1 - url Loaded
+2024-02-24 18:28:50,011 [main] INFO Frame1 - maximized Browser window and added waits
+2024-02-24 18:28:50,013 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-02-24 18:42:31,944 [main] INFO Frame1 - Logger Started
+2024-02-24 18:42:38,714 [main] INFO Frame1 - Firefox launched
+2024-02-25 00:48:46,657 [main] INFO Frame1 - Logger Started
+2024-02-25 00:48:50,149 [main] INFO Frame1 - Firefox launched
+2024-02-25 00:48:53,180 [main] INFO Frame1 - url Loaded
+2024-02-25 00:48:53,463 [main] INFO Frame1 - maximized Browser window and added waits
+2024-02-25 00:48:53,546 [main] INFO Frame1 - TestCase Execution started_(loginTest)
