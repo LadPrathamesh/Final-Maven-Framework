@@ -1129,3 +1129,26 @@
 2024-02-25 00:48:53,180 [main] INFO Frame1 - url Loaded
 2024-02-25 00:48:53,463 [main] INFO Frame1 - maximized Browser window and added waits
 2024-02-25 00:48:53,546 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-02 16:18:24,431 [main] INFO Frame1 - Logger Started
+2024-03-02 16:18:38,731 [main] INFO Frame1 - Firefox launched
+2024-03-02 16:18:41,632 [main] INFO Frame1 - url Loaded
+2024-03-02 16:18:41,938 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-02 16:18:42,009 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-02 16:19:33,696 [main] INFO Frame1 - Logger Started
+2024-03-02 16:19:47,894 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-02 16:19:47,897 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2024-03-02 16:19:47,900 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-02 16:20:59,213 [main] INFO Frame1 - Logger Started
+2024-03-02 16:21:09,744 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-02 16:21:09,748 [main] INFO Frame1 - Test Case Skipped(loginTest)
+2024-03-02 16:21:09,755 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-02 16:22:04,360 [main] INFO Frame1 - Logger Started
+2024-03-02 16:22:11,901 [main] INFO Frame1 - Chrome launched
+2024-03-02 16:22:15,058 [main] INFO Frame1 - url Loaded
+2024-03-02 16:22:15,202 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-02 16:22:15,238 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-02 16:22:20,130 [main] INFO Frame1 - running
+2024-03-02 16:22:20,335 [main] INFO Frame1 - Screenshot Taken
+2024-03-02 16:22:20,340 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-02 16:22:22,860 [main] INFO Frame1 - Browser Closed
+2024-03-02 16:22:22,860 [main] INFO Frame1 - Automation Suite Executed Successfully
